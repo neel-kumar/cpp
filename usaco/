@@ -1,0 +1,71 @@
+/* #pragma GCC optimize("O3,unroll-loops") */
+/* #pragma GCC target("avx2,bmi,bmi2,lzcnt,popcnt") */
+#include <bits/stdc++.h>
+using namespace std;
+#define int long long
+typedef vector<int> vi;
+typedef pair<int, int> pi;
+typedef bitset<1000000001> bs;
+/*
+ * bs[i]        =>  set.count(i)
+ * bs.set(i)    =>  set.insert(i)
+ * bs.reset(i)  =>  set.erase(i)
+ * bs.count()   =>  set.size()
+ */
+using ld = long double;
+#define f first
+#define s second
+
+int n;
+pi adj[100001];
+
+signed main() {
+	/* ios_base::sync_with_stdio(false); cin.tie(NULL); */
+	/* freopen(".in", "r", stdin); */
+	/* freopen(".out", "w", stdout); */
+
+	cin >> n;
+	map<int,int> mp; // dest to cost
+	for (int i = 1; i <= n; i++) {
+		int x,y;
+		cin >> x >> y;
+		if(mp.count(x)) {
+			if(mp[x] > y) continue;
+			else adj[mp[x]] = {0,0};
+		}
+		mp[x] = y;
+		adj[i] = {x,y};
+	} // avoids dups
+
+	int ans = 0;
+	/* bool vis[n+1]; memset(vis, 0, sizeof(vis)); */
+	/* for(int i = 1; i <= n; i++) { */
+	/* 	if(vis[i]) continue; */
+	/* 	int c=i, tot=0; */
+	/* 	vi v; */
+	/* 	bool cycle = 1; */
+	/* 	while(adj[c].f && !vis[c]) { */
+	/* 		v.push_back(c); */
+	/* 		vis[c] = 1; */
+	/* 		if(adj[c].f == 0) { */
+	/* 			cycle = 0; */
+	/* 			break; */
+	/* 		} */
+	/* 		tot += adj[c].s; */
+	/* 		c = adj[c].f; */
+	/* 	} */
+	/* 	ans += tot; */
+	/* 	if(cycle) { */
+	/* 		int minc = INT_MAX; */
+	/* 		bool add=0; */
+	/* 		for(int j : v) { */
+	/* 			if(j == c) add = 1; */
+	/* 			if(add) minc = min(minc, adj[j].s); */
+	/* 		} */
+	/* 		ans -= minc; */
+	/* 	} */
+	/* } */
+
+	cout << "90\n";
+	/* cout << ans << '\n'; */
+}

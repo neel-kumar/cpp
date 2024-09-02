@@ -1,0 +1,66 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define int long long
+
+int n,m,k;
+int a[300001][4];
+
+int check(bool even, int i) {
+	// 0=odd
+	int em = INT_MIN;
+	bool f=0;
+	for(int j=0;j<k;j++) {
+		if(a[i][j]%2 == even) {
+			if(!f) {
+				em=a[i][j];
+				f=1;
+			}
+			em=max(em,a[i][j]);
+		} else if(!f) {
+			em=max(em,-a[i][j]);
+		}
+	}
+	return em;
+}
+
+void solve() {
+	cin>>n>>m>>k;
+	for(int i=0;i<m;i++)
+		for(int j=0;j<k;j++)
+			cin>>a[i][j];
+	bool a[m]={0};
+	int c=n,bc=n,bi=n;
+	set<pair<int,int>> s;
+	for(int i=0;i<m;i++) {
+		c-=min(check(0,i),check(1,i));
+		bc+=min(check(0,i),check(1,i));
+		a[i]=(check(0,i)>=check(1,i));
+		s.insert({c,i});
+
+		if(bc<=0 && bi==n) bi=i;
+		if(bc>0 && c<=0) {
+			cout << "-1\n";
+			return;
+		}
+	}
+
+	c=0;
+	for(int i=0;i<m;i++) {
+		if(a[i]) continue;
+		while((*s.begin()).second < i) s.erase(s.begin());
+		while((*s.rbegin()).second < i) s.erase(--s.end());
+		pair<int,int> nl=(*s.begin()),nr=(*s.rbegin());
+		if(nl.first-c-check(1,i)+check(0,i) > 0 || (nr.first+c+check(1,i)-check(0,i) < 0 && nr.second<nl.second) ) {
+			a[i]=1;
+			c+=check(1,i)-check(0,i);
+		}
+	}
+
+	for(int i=0;i<m;i++) cout << (a[i]?"Even":"Odd") << (i==m-1?"":" ");
+	cout << endl;
+}
+
+signed main() {
+	int t;cin>>t;
+	while(t--) solve();
+}

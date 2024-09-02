@@ -1,0 +1,17 @@
+CONTEST STRAT
+	do subtasks quickly
+	tangible progress every 15 mins
+	read all problems 1st
+	try quick cheesing
+	dont give up
+	100M/1e8 ops per sec (calc complexity)
+
+DUMB OPTIMIZATION
+	ll only when needed
+	char s[] > string s
+	use bitset/arrays/light ds whenever possible
+	use scanf/printf
+	use '\n'
+	iterative > recursive
+	define ds as global
+	array access in nested loops is slow so use temps

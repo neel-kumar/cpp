@@ -1,0 +1,9 @@
+Hello World!
+Epic Gamer
+Input a number: Hello World!
+before 4
+helloi -1
+after helloi4
+before 4
+hellor -1
+after hellor-1

@@ -1,0 +1,10 @@
+read -p "📂 " fn
+fn=$fn".cpp"
+g++-13 $fn
+./a.out < in.txt > testo.txt
+echo "🐮--------------------------TEST/COMP----------------------------🙏"
+if diff -y -w "testo.txt" "o.txt"; then
+	echo "WORKS😎"
+else
+	echo "shit...🐒"
+fi

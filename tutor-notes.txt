@@ -1,0 +1,10 @@
+10/23:
+	CodinGame: codingame.com
+	CodeWars: codewars.com
+	LeetCode: leetcode.com
+	HackerRank: hackerrank.com
+	VisuAlgo: visualgo.net/en
+	
+	CodeForces: codeforces.com
+	
+	Competitive Programming III by Steven Halim(https://cpbook.net/)

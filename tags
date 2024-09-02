@@ -1,0 +1,2274 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	ex2.cpp	/^long long A, B, C;$/;"	v
+A	exponentiation.cpp	/^int A, B;$/;"	v
+A	maxsubarry2.cpp	/^int N, A, B;$/;"	v
+B	ex2.cpp	/^long long A, B, C;$/;"	v
+B	exponentiation.cpp	/^int A, B;$/;"	v
+B	highcard.cpp	/^int B[50000];$/;"	v
+B	maxsubarry2.cpp	/^int N, A, B;$/;"	v
+C	close_tuples.cpp	/^ll C(int n, int k) {$/;"	f
+C	ex2.cpp	/^long long A, B, C;$/;"	v
+C	placing_rooks.cpp	/^int C(int n, int k)$/;"	f
+Compare	parade.cpp	/^struct Compare{$/;"	s	file:
+DEBUG	angry_sk.cpp	/^#define DEBUG /;"	d	file:
+DEBUG_LOG	angry_sk.cpp	/^bool DEBUG_LOG = true;$/;"	v
+DEV_ENV	boilerplate.cpp	/^#define DEV_ENV$/;"	d	file:
+DEV_ENV	bp20.cpp	/^#define DEV_ENV$/;"	d	file:
+DEV_ENV	cowtip.cpp	/^#define DEV_ENV$/;"	d	file:
+DEV_ENV	diamond.cpp	/^#define DEV_ENV$/;"	d	file:
+DEV_ENV	diamond2.cpp	/^#define DEV_ENV$/;"	d	file:
+DEV_ENV	div7.cpp	/^#define DEV_ENV$/;"	d	file:
+DEV_ENV	eh.cpp	/^#define DEV_ENV$/;"	d	file:
+DEV_ENV	emop.cpp	/^#define DEV_ENV$/;"	d	file:
+DEV_ENV	guess.cpp	/^#define DEV_ENV$/;"	d	file:
+DEV_ENV	hoofball.cpp	/^#define DEV_ENV$/;"	d	file:
+DEV_ENV	js.cpp	/^#define DEV_ENV$/;"	d	file:
+DEV_ENV	milkvisits.cpp	/^#define DEV_ENV$/;"	d	file:
+DEV_ENV	pus.cpp	/^#define DEV_ENV$/;"	d	file:
+DSU	building_roads.cpp	/^	DSU(int N) { e = vector<int>(N, -1); }$/;"	f	struct:DSU
+DSU	building_roads.cpp	/^struct DSU {$/;"	s	file:
+DSU	dance_moovesS.cpp	/^struct DSU {$/;"	s	file:
+DSU	dsu_temp.cpp	/^	DSU(int N) { e = vector<int>(N, -1); }$/;"	f	struct:DSU
+DSU	dsu_temp.cpp	/^struct DSU {$/;"	s	file:
+DSU	health_insp.cpp	/^	DSU(int N) { e = vector<int>(N, -1); }$/;"	f	struct:DSU
+DSU	health_insp.cpp	/^struct DSU {$/;"	s	file:
+DSU	tele_call.cpp	/^    DSU(int n)$/;"	f	class:DSU
+DSU	tele_call.cpp	/^class DSU {$/;"	c	file:
+DSU	vinland_saga.cpp	/^	DSU(int N) { e = vector<int>(N, -1); }$/;"	f	struct:DSU
+DSU	vinland_saga.cpp	/^struct DSU {$/;"	s	file:
+E	highcard.cpp	/^int E[50000];$/;"	v
+G	lawn_tracks.cpp	/^char G[4000][4000];$/;"	v
+Graph	tele_call.cpp	/^    Graph(int V) { this->V = V; }$/;"	f	class:Graph
+Graph	tele_call.cpp	/^class Graph {$/;"	c	file:
+INF	bfs_temp.cpp	/^#define INF /;"	d	file:
+INF	dijktra_temp.cpp	/^#define INF /;"	d	file:
+INF	msg_route.cpp	/^#define INF /;"	d	file:
+INF	vacation_planning.cpp	/^#define INF /;"	d	file:
+INF	warshall_temp.cpp	/^#define INF /;"	d	file:
+K	acsl09.cpp	/^int N, K;$/;"	v
+K	diamond.cpp	/^int N, K;$/;"	v
+K	diamond2.cpp	/^int N, K;$/;"	v
+K	diamond3.cpp	/^int N, K;$/;"	v
+K	hoof_paper_scissors.cpp	/^int N,K;$/;"	v
+K	milkorder.cpp	/^int K;$/;"	v
+K	wh.cpp	/^int N, K;$/;"	v
+KMPSearch	censoring_kmp.cpp	/^string KMPSearch(string pattern, string txt) {$/;"	f
+LIM	boris_cut.cpp	/^const int LIM = 200000;$/;"	v
+LPSArray	censoring_kmp.cpp	/^void LPSArray(string pattern, int M, int* lps) {$/;"	f
+M	boris_cut.cpp	/^int T, N, M, a[LIM], b[LIM];$/;"	v
+M	ccski.cpp	/^int N, M, grid[501][501], ans;$/;"	v
+M	cereal.cpp	/^int N, M, cereals[100001];$/;"	v
+M	closing.cpp	/^int N, M;$/;"	v
+M	closing2.cpp	/^int N, M;$/;"	v
+M	coin_combos2.cpp	/^const int M = 1e9+7;$/;"	v
+M	collectingnums2ans.cpp	/^int N, M, cnt, x[maxN], pos[maxN];$/;"	v
+M	counting_towers.cpp	/^const int M = 1000000007;$/;"	v
+M	finding_periods.cpp	/^const ll M = 1e9 + 9;$/;"	v
+M	inoi2002.cpp	/^const int M = 1e9+7;$/;"	v
+M	lightson.cpp	/^int N, M;$/;"	v
+M	long_path.cpp	/^const int M = (int)1e9+7;$/;"	v
+M	milkorder.cpp	/^int M;$/;"	v
+M	optimal_hall.cpp	/^int N, M, X, Y;$/;"	v
+M	wormsort.cpp	/^int N, M;$/;"	v
+MAX	common_divisors.cpp	/^const int MAX = 1e6;$/;"	v
+MAXN	creating_str2.cpp	/^const long long MAXN = 1e6+1;$/;"	v
+MAXN	dice_prob.cpp	/^const int MAXN = 100;$/;"	v
+MAXN	dishwashing.cpp	/^const int MAXN = 1e5;$/;"	v
+MAXN	mahmoud.cpp	/^const long long MAXN = 1e5+1;$/;"	v
+MAXN	me_bipartite.cpp	/^const long long MAXN = 1e5+1;$/;"	v
+MAXN	milk_sum.cpp	/^const long long MAXN = 1.5 * 1e5;$/;"	v
+MAXN	mod_inverse_temp.cpp	/^const int MAXN = 1e6+1;$/;"	v
+MAXN	modern_art2.cpp	/^const int MAXN = 300000;$/;"	v
+MAXN	wealth_disparity.cpp	/^const int MAXN = 200000;$/;"	v
+MAX_ADJ	game_routes.cpp	/^const int MAX_ADJ = 100001;$/;"	v
+MAX_MEMO	game_routes.cpp	/^const int MAX_MEMO = 300001;$/;"	v
+MAX_SIDE	forest_queries.cpp	/^constexpr int MAX_SIDE = 1000;$/;"	v
+MOD	2sets2.cpp	/^const ll MOD = 1e9L + 7L; \/\/ 1000000007;$/;"	v
+MOD	creating_str2.cpp	/^const long long MOD = 1e9+7;$/;"	v
+MOD	dice_prob.cpp	/^const int MOD = 1e9 + 7;$/;"	v
+MOD	ex2.cpp	/^const int MOD = 1e9 + 7;$/;"	v
+MOD	exponentiation.cpp	/^const int MOD = 1e9 + 7;$/;"	v
+MOD	finding_patterns.cpp	/^const long long MOD = 1e11 + 9;$/;"	v
+MOD	mod_inverse_temp.cpp	/^const int MOD = 1e9+7;$/;"	v
+MOD	placing_rooks.cpp	/^const int MOD = 998244353;$/;"	v
+N	acsl09.cpp	/^int N, K;$/;"	v
+N	boris_cut.cpp	/^int T, N, M, a[LIM], b[LIM];$/;"	v
+N	ccski.cpp	/^int N, M, grid[501][501], ans;$/;"	v
+N	cereal.cpp	/^int N, M, cereals[100001];$/;"	v
+N	chessbandq.cpp	/^#define N /;"	d	file:
+N	classroom_cheat.cpp	/^const int N = 1e5 + 5;$/;"	v
+N	close_tuples.cpp	/^const int N = 300500;$/;"	v
+N	closing.cpp	/^int N, M;$/;"	v
+N	closing2.cpp	/^int N, M;$/;"	v
+N	collectingnums2ans.cpp	/^int N, M, cnt, x[maxN], pos[maxN];$/;"	v
+N	combo.cpp	/^int fj[3], mast[3], N;$/;"	v
+N	common_divisors.cpp	/^int N, divisors[MAX+1];$/;"	v
+N	cow_dance_show.cpp	/^int N, T;$/;"	v
+N	dance_show_shitty.cpp	/^int N, T;$/;"	v
+N	diamond.cpp	/^int N, K;$/;"	v
+N	diamond2.cpp	/^int N, K;$/;"	v
+N	diamond3.cpp	/^int N, K;$/;"	v
+N	exponentiation.cpp	/^int d, N;$/;"	v
+N	following_directions.cpp	/^int N, Q, g[1501][1501], memo[1501][1501];$/;"	v
+N	gates.cpp	/^int N;$/;"	v
+N	gridpaths.cpp	/^const int N = 6;$/;"	v
+N	hash_ll.cpp	/^int N;$/;"	v
+N	highcard.cpp	/^int N;$/;"	v
+N	hoof_paper_scissors.cpp	/^int N,K;$/;"	v
+N	iqtest.cpp	/^int N;$/;"	v
+N	leftout.cpp	/^int N;$/;"	v
+N	lightson.cpp	/^int N, M;$/;"	v
+N	maxsubarry2.cpp	/^int N, A, B;$/;"	v
+N	milk_sum.cpp	/^long long N, Q;$/;"	v
+N	milkorder.cpp	/^int N;$/;"	v
+N	missingcoinsum.cpp	/^int N, x[maxN];$/;"	v
+N	modern_art2.cpp	/^int N, minc[MAXN], maxc[MAXN];$/;"	v
+N	optimal_hall.cpp	/^int N, M, X, Y;$/;"	v
+N	party_wo_boss.cpp	/^int N;$/;"	v
+N	perimeter.cpp	/^int N;$/;"	v
+N	placing_rooks.cpp	/^const int N = 200043;$/;"	v
+N	registrationsystem.cpp	/^int N;$/;"	v
+N	scf.cpp	/^int N;$/;"	v
+N	scfa.cpp	/^int N;$/;"	v
+N	sjge.cpp	/^int N;$/;"	v
+N	sliding_cost.cpp	/^long N, k;$/;"	v
+N	sliding_median.cpp	/^long N, k;$/;"	v
+N	srg.cpp	/^int N;$/;"	v
+N	sri.cpp	/^int N;$/;"	v
+N	sss.cpp	/^int N;$/;"	v
+N	sticklens.cpp	/^int N, p[maxN];$/;"	v
+N	subordinates.cpp	/^int N, ans[200001];$/;"	v
+N	tree_distances.cpp	/^int dist[2][200001], N;$/;"	v
+N	uso221.cpp	/^int N;$/;"	v
+N	wh.cpp	/^int N, K;$/;"	v
+N	wormsort.cpp	/^int N, M;$/;"	v
+P	finding_patterns.cpp	/^const int P = 29;$/;"	v
+P	finding_periods.cpp	/^const ll P = 69420;$/;"	v
+P	potw2p1.cpp	/^bool P(int number) {$/;"	f
+PRIME	hash_ll.cpp	/^const int PRIME = 10007;$/;"	v
+PS	gridpaths.cpp	/^const int PS = N*N - 1;$/;"	v
+Q	following_directions.cpp	/^int N, Q, g[1501][1501], memo[1501][1501];$/;"	v
+Q	milk_sum.cpp	/^long long N, Q;$/;"	v
+Q	uso222.cpp	/^int Q;$/;"	v
+S	barn_tree.cpp	/^stack<int> S;$/;"	v
+S	souvenir_prices.cpp	/^ll S;$/;"	v
+SIZE	C.cpp	/^const int SIZE = 200001;$/;"	v
+SIZE	building_teams.cpp	/^const int SIZE = 100001;$/;"	v
+SIZE	monsters.cpp	/^const int SIZE = 1000;$/;"	v
+SIZE	round_trip.cpp	/^const ll SIZE = 200001;$/;"	v
+T	boris_cut.cpp	/^int T, N, M, a[LIM], b[LIM];$/;"	v
+T	cow_dance_show.cpp	/^int N, T;$/;"	v
+T	dance_show_shitty.cpp	/^int N, T;$/;"	v
+V	tele_call.cpp	/^    int V;$/;"	m	class:Graph	file:
+X	optimal_hall.cpp	/^int N, M, X, Y;$/;"	v
+Y	optimal_hall.cpp	/^int N, M, X, Y;$/;"	v
+a	arraysvideo.cpp	/^int a[101]; \/\/ In this case the max size of the map is 100$/;"	v
+a	boris_cut.cpp	/^int T, N, M, a[LIM], b[LIM];$/;"	v
+a	cheap-travel.cpp	/^int n, m, a, b;$/;"	v
+a	classroom_cheat.cpp	/^bool a[N];$/;"	v
+a	cut-ribbon.cpp	/^int n, a, b, c;$/;"	v
+a	dice_prob.cpp	/^long long memo[MAXN], n, a, b;$/;"	v
+a	fight_traffic.cpp	/^int n, m, a,b;$/;"	v
+a	library_pics.cpp	/^map<int, int> a[5];$/;"	v
+a	max_median.cpp	/^vector<int> a;$/;"	v
+a	orac_lcm.cpp	/^vector<int> a;$/;"	v
+a	pair_p.cpp	/^vector<int> a[2];$/;"	v
+a	rectcut.cpp	/^int a, b, memo[501][501];$/;"	v
+a	selecting_nodes.cpp	/^long long n, a, b;$/;"	v
+a	team_work.cpp	/^int a[(int)1e5 +1][5];$/;"	v
+a	wifi.cpp	/^double a, b;$/;"	v
+acomp	convention2.cpp	/^bool acomp(vector<int> i, vector<int> j) {$/;"	f
+add	factorymachines.cpp	/^void add(int k, int x) {$/;"	f
+add	nestedrcount.cpp	/^void add(int k, int x) {$/;"	f
+add	placing_rooks.cpp	/^int add(int x, int y)$/;"	f
+add	segtree.cpp	/^void add(int k, int x) {$/;"	f
+add	segtreevid.cpp	/^void add(int k, int x) {$/;"	f
+addEdge	building_teams.cpp	/^void addEdge(int v, int w)$/;"	f
+addEdge	round_trip.cpp	/^void addEdge(ll v, ll w)$/;"	f
+addEdge	tele_call.cpp	/^    void addEdge(int x, int y, int w)$/;"	f	class:Graph
+add_contribution	scfa.cpp	/^void add_contribution(const vector<int>& h) {$/;"	f
+adj	building_teams.cpp	/^vector<int> adj[SIZE];$/;"	v
+adj	game_routes.cpp	/^vi adj[MAX_ADJ];$/;"	v
+adj	matching.cpp	/^bool adj[50][50];$/;"	v
+adj	round_trip.cpp	/^vector<ll> adj[SIZE];$/;"	v
+adjListB	meeting.cpp	/^vector<vii> adjListB, adjListE;$/;"	v
+adjListE	meeting.cpp	/^vector<vii> adjListB, adjListE;$/;"	v
+all	books.cpp	/^#define all(/;"	d	file:
+all0	ac.cpp	/^bool all0(int* d, int N) {$/;"	f
+ans	2sets2.cpp	/^map<ll, ll> ans;$/;"	v
+ans	Anew.cpp	/^int val[100001], n, ans;$/;"	v
+ans	C.cpp	/^int ans[SIZE];$/;"	v
+ans	barn_tree.cpp	/^int val[200001], n, ans;$/;"	v
+ans	building_teams.cpp	/^int ans[SIZE];$/;"	v
+ans	carriage_arr.cpp	/^int ans = 0, arr[10001];$/;"	v
+ans	catch_me.cpp	/^set<long long> ans;$/;"	v
+ans	ccski.cpp	/^int N, M, grid[501][501], ans;$/;"	v
+ans	counting_rooms.cpp	/^int g[1001][1001], n, m, ans = 0;$/;"	v
+ans	day3c.cpp	/^int ans = INT_MAX;$/;"	v
+ans	dist_in_tree.cpp	/^ll n, k, ans = 0;$/;"	v
+ans	flood_fill_temp.cpp	/^int n, m, ans = 0;$/;"	v
+ans	following_directions.cpp	/^int ans;$/;"	v
+ans	gen_paths.cpp	/^long long ans[501][501];$/;"	v
+ans	guess.cpp	/^int ans(set<string> c[100], int N) {$/;"	f
+ans	gymnastics.cpp	/^int ans(int N, int K, int g[10][21]) {$/;"	f
+ans	hopscotch.cpp	/^int c, r, ans;$/;"	v
+ans	labby.cpp	/^string ans;$/;"	v
+ans	moneysums.cpp	/^set<int> ans;$/;"	v
+ans	nother_tree.cpp	/^set<int> ans[501][501];$/;"	v
+ans	outofplace.cpp	/^int ans(int*l, int bp, int bsp) {$/;"	f
+ans	pails_silver.cpp	/^int x, y, k, m, ans = 2000000000;$/;"	v
+ans	paintbarn.cpp	/^int ans = 0;$/;"	v
+ans	pandamonium.cpp	/^vector<int> ans;$/;"	v
+ans	path_prefixes.cpp	/^map<int, int> ans;$/;"	v
+ans	range_recontruction.cpp	/^vector<int> ans;$/;"	v
+ans	round_trip.cpp	/^ll ans[SIZE];$/;"	v
+ans	scf.cpp	/^    long long ans = 0;$/;"	v
+ans	sjge.cpp	/^ll ans;$/;"	v
+ans	stuck_inna_rut.cpp	/^int n, ans[1000], minx = INT8_MAX, miny = INT8_MAX, maxx, maxy;$/;"	v
+ans	subordinates.cpp	/^int N, ans[200001];$/;"	v
+ans	treed.cpp	/^int ans = 0;$/;"	v
+ans	treedist1.cpp	/^int ans = 0;$/;"	v
+ans	uso222.cpp	/^vector<bool> ans;$/;"	v
+ansg	barn_tree.cpp	/^unordered_map<int, vll> ansg;$/;"	v
+ansm	Anew.cpp	/^map<int, vector<ii>> ansm;$/;"	v
+ansm	barn_tree.cpp	/^unordered_map<int, vector<pair<int, ll>>> ansm;$/;"	v
+app_trans	bessie_shuffle.cpp	/^vector<int> app_trans(vector<int> a, vector<int> b) {$/;"	f
+arr	build_gates.cpp	/^int arr[110];$/;"	v
+arr	carriage_arr.cpp	/^int ans = 0, arr[10001];$/;"	v
+arr	count_digi_sum.cpp	/^int arr[18][2][162];$/;"	v
+arr	max_med.cpp	/^long long arr[2000001];$/;"	v
+arr	nearest_opp_parity.cpp	/^vector<int> arr, even, odd;$/;"	v
+arr	sliding_cost.cpp	/^long arr[200010];$/;"	v
+arr	sliding_median.cpp	/^long arr[200010];$/;"	v
+art	art.cpp	/^int art[10][10];$/;"	v
+asize	arraysvideo.cpp	/^int asize = 0;$/;"	v
+asize	arraysvideo2.cpp	/^int asize = 0;$/;"	v
+b	boris_cut.cpp	/^int T, N, M, a[LIM], b[LIM];$/;"	v
+b	cheap-travel.cpp	/^int n, m, a, b;$/;"	v
+b	cut-ribbon.cpp	/^int n, a, b, c;$/;"	v
+b	dice_prob.cpp	/^long long memo[MAXN], n, a, b;$/;"	v
+b	fight_traffic.cpp	/^int n, m, a,b;$/;"	v
+b	rectcut.cpp	/^int a, b, memo[501][501];$/;"	v
+b	selecting_nodes.cpp	/^long long n, a, b;$/;"	v
+b	wifi.cpp	/^double a, b;$/;"	v
+barn	backforth.cpp	/^    void barn(const map<int, int>& my, const map<int, int>& other, const int n, const int mytank, const int othertank) {$/;"	f	struct:tanks
+barn	paintbarn.cpp	/^int barn[1000][1000];$/;"	v
+base	dishwashing.cpp	/^int base[MAXN], ns = 0;$/;"	v
+be	par_problem3.cpp	/^vector<long long> bs, be;$/;"	v
+bes	meeting.cpp	/^vector<int> bes, el;$/;"	v
+bessie	par_problem3.cpp	/^char bessie[6] = {'b', 'e', 's', 's', 'i', 'e'};$/;"	v
+bessie	sk.cpp	/^int bessie['z' + 1];$/;"	v
+bfs	catch_me.cpp	/^void bfs(long long v, long long hops) {$/;"	f
+bfs	inoi1402.cpp	/^void bfs(int source) {$/;"	f
+bfs	monsters.cpp	/^vector<int> bfs() {$/;"	f
+bfs	nearest_opp_parity.cpp	/^vector<int> bfs(vector<int> sources) {$/;"	f
+bfs	parade.cpp	/^int bfs(int r) {$/;"	f
+binomial	binomial_coeffs.cpp	/^int binomial(int n, int k, int p) {$/;"	f
+binpow	bessie_shuffle.cpp	/^vector<int> binpow(vector<int> a, long long b) {$/;"	f
+binpow	ex2.cpp	/^long long binpow(long long a, long long b, long long m) {$/;"	f
+binpow	exponentiation.cpp	/^long long binpow(long long a, long long b, long long m) {$/;"	f
+binpow	placing_rooks.cpp	/^int binpow(int x, int y)$/;"	f
+board	chessbandq.cpp	/^int board[N][N];$/;"	v
+bottom	sliding_cost.cpp	/^multiset<long> bottom;$/;"	v
+bottom	sliding_median.cpp	/^multiset<long> bottom;$/;"	v
+bs	blah.cpp	/^ll bs(ll arr[], ll n, ll m, ll high) {$/;"	f
+bs	par_problem3.cpp	/^vector<long long> bs, be;$/;"	v
+bubbleSort	carriage_arr.cpp	/^void bubbleSort(int n) {$/;"	f
+c	birthday.cpp	/^int p, c, num;$/;"	v
+c	building_roads.cpp	/^int m, n, c[100000];$/;"	v
+c	coin_combos2.cpp	/^int c[100];$/;"	v
+c	cow_hopscotch.cpp	/^int grid[100][100], r, c, k, memo[100][100];$/;"	v
+c	cut-ribbon.cpp	/^int n, a, b, c;$/;"	v
+c	gridpaths.cpp	/^int c = 0;$/;"	v
+c	hopscotch.cpp	/^int c, r, ans;$/;"	v
+c	inoi1402.cpp	/^int c, f;$/;"	v
+c	leftout.cpp	/^bool c[1000];$/;"	v
+c	min_coins.cpp	/^int c[100];$/;"	v
+c	treematchingbad.cpp	/^int n, c = 0;$/;"	v
+c	wifi.cpp	/^vector<double> c;$/;"	v
+c	wordcombo-struct.cpp	/^    tnode* c[26];$/;"	m	struct:tnode	file:
+c1	mahmoud.cpp	/^long long n, c1 = 0, c2 = 0;$/;"	v
+c1	me_bipartite.cpp	/^long long n, c1 = 0, c2 = 0;$/;"	v
+c2	mahmoud.cpp	/^long long n, c1 = 0, c2 = 0;$/;"	v
+c2	me_bipartite.cpp	/^long long n, c1 = 0, c2 = 0;$/;"	v
+c2i	cf.cpp	/^int c2i['Z'];$/;"	v
+c2p	milkorder.cpp	/^int c2p[101]; \/\/ cow -> position$/;"	v
+c2pg	srg.cpp	/^int c2pg[501][501];$/;"	v
+c2r	art.cpp	/^int c2r[10][6];$/;"	v
+calc_bs_be	par_problem3.cpp	/^void calc_bs_be(string& s, const long long n) {$/;"	f
+calcn	return_school.cpp	/^int calcn(int n) {$/;"	f
+calcn	return_socho.cpp	/^ll calcn(ll n) {$/;"	f
+calcsubarray	souvenir_prices.cpp	/^ll calcsubarray(ll a[], ll x[], ll n, ll c)$/;"	f
+canPlaceSH	milkorder.cpp	/^bool canPlaceSH(void) {$/;"	f
+canmove	gridpaths.cpp	/^inline bool canmove(int x, int y) {$/;"	f
+cash	wealth_disparity.cpp	/^int cash[MAXN];$/;"	v
+cco	roomallo.cpp	/^bool cco(tuple<int, bool, int> a, tuple<int, bool, int> b) {$/;"	f
+ccomp	nestedrc.cpp	/^bool ccomp(tuple<int, int, int> a, tuple<int, int, int> b) {$/;"	f
+ccomp	nestedrcount.cpp	/^bool ccomp(tuple<int, int, int> a, tuple<int, int, int> b) {$/;"	f
+ccomp2	nestedrc.cpp	/^bool ccomp2(tuple<int, int, int> a, tuple<int, int, int> b) {$/;"	f
+ccomp2	nestedrcount.cpp	/^bool ccomp2(tuple<int, int, int> a, tuple<int, int, int> b) {$/;"	f
+cereals	cereal.cpp	/^int N, M, cereals[100001];$/;"	v
+char2occ	creating_str2.cpp	/^map<char, long long> char2occ;\/\/urence$/;"	v
+check	attedance.cpp	/^bool check(int rest, int n, int k) {$/;"	f
+check	max_med.cpp	/^bool check(long long med) {$/;"	f
+check	meeting_socho.cpp	/^bool check(int cm) {$/;"	f
+check	min_dist.cpp	/^bool check(int dist) {$/;"	f
+check	team_work.cpp	/^bool check(int x) {$/;"	f
+checkBlank	build_gates.cpp	/^void checkBlank(int x, int y) {$/;"	f
+checkff	ccski.cpp	/^bool checkff(int rat, int x, int y) {$/;"	f
+choose	choose_temp.cpp	/^long long choose(long long a, long long b) {$/;"	f
+choose	potw1p2.cpp	/^long long choose(long long a, long long b) {$/;"	f
+ci	gridpaths.cpp	/^int ci[256] = {0};$/;"	v
+claim	cereal.cpp	/^int claim(int ce, int co) {$/;"	f
+clear_vars	apple_tree.cpp	/^void clear_vars() {$/;"	f
+cmp	library_pics.cpp	/^bool cmp(const int x, const int y) {$/;"	f
+cnt	collectingnums2ans.cpp	/^int N, M, cnt, x[maxN], pos[maxN];$/;"	v
+co	wormsort.cpp	/^vector<int> co;$/;"	v
+coins	2sets2.cpp	/^vector<int> coins;$/;"	v
+colors	modern_art2.cpp	/^int colors[MAXN];$/;"	v
+column	chessbandq.cpp	/^bool column[N];$/;"	v
+comb_trans	bessie_shuffle.cpp	/^vector<int> comb_trans(vector<int> sequence, vector<int> permutation) {$/;"	f
+comp	pairs_of_segs.cpp	/^bool comp(const pair<int, int>& a, const pair<int, int>& b) {$/;"	f
+compressed	modern_art2.cpp	/^multiset<pair<int, int>> compressed;$/;"	v
+con	nestedrcount.cpp	/^int in[maxN], con[maxN], st[2*stN+1];$/;"	v
+connect	min_spanning_tree_temp.cpp	/^void connect(int x, int y)$/;"	f
+connect	superbull.cpp	/^void connect(int x, int y)$/;"	f
+coordcomp	nestedrcount.cpp	/^map<int, int> coordcomp;$/;"	v
+coords2ind	stuck_inna_rut.cpp	/^map<double, int> coords2ind;$/;"	v
+count	acsl09.cpp	/^void count(int node) {$/;"	f
+countSetBits	field_day.cpp	/^int countSetBits(int n) {$/;"	f
+countSetBits	gen_paths.cpp	/^long long countSetBits(long long n) {$/;"	f
+countSetBits	nother_tree.cpp	/^long long countSetBits(long long n) {$/;"	f
+count_digits	count_digi_sum.cpp	/^int count_digits(int i, bool check, int temp, int total, string str, int size) {$/;"	f
+count_sum	ranom_nums.cpp	/^int count_sum(string t) {$/;"	f
+counter	gridpaths.cpp	/^int counter = 0;$/;"	v
+cow1	searching_for_soulmates.cpp	/^long long cow1, cow2;$/;"	v
+cow2	searching_for_soulmates.cpp	/^long long cow1, cow2;$/;"	v
+cows	cc.cpp	/^char cows[1001][1001];$/;"	v
+cows	cereal.cpp	/^vector<pair<int, int>> cows;$/;"	v
+cows	wormhole-sort.cpp	/^vector<int> cows, widths;$/;"	v
+create_trav	cc.cpp	/^vector<pair<int, int> >& create_trav(int x, int y, vector<pair<int, int> >& ans) {$/;"	f
+cs	palreorder.cpp	/^int cs[26];$/;"	v
+curr	connect.cpp	/^vector<array<int, 2>> curr, wish;$/;"	v
+curr	theyre_everywhere.cpp	/^map<char, int> curr;$/;"	v
+curr_best	field_day.cpp	/^int curr_best[200001];$/;"	v
+cx	connect.cpp	/^int cx, cy, wx, wy;$/;"	v
+cy	connect.cpp	/^int cx, cy, wx, wy;$/;"	v
+cycle	acsl09.cpp	/^bool cycle[21];$/;"	v
+d	cow_dance_show.cpp	/^int d[100005];$/;"	v
+d	dance_show_shitty.cpp	/^int d[100005];$/;"	v
+d	day3e.cpp	/^int n, k, d;$/;"	v
+d	diamond_collecter.cpp	/^vector<int> d;$/;"	v
+d	exponentiation.cpp	/^int d, N;$/;"	v
+d	gridpaths.cpp	/^char d[4] = {'D', 'U', 'L', 'R'};$/;"	v
+d	lawn_tracks.cpp	/^int d[4000][4000];$/;"	v
+d1	chessbandq.cpp	/^bool d1[2*N-1];$/;"	v
+d2	chessbandq.cpp	/^bool d2[2*N-1];$/;"	v
+d2pos	gridpaths.cpp	/^pair<int, int> d2pos[4];$/;"	v
+d2t	cf.cpp	/^int d2t[4][4];$/;"	v
+da	fight_traffic.cpp	/^int da[1010], db[1010];$/;"	v
+dans	nother_tree.cpp	/^int dans[501][501];$/;"	v
+db	fight_traffic.cpp	/^int da[1010], db[1010];$/;"	v
+db	registrationsystem.cpp	/^map<string, int> db;$/;"	v
+dbg	abc.cpp	/^#define dbg /;"	d	file:
+dbg	ac.cpp	/^#define dbg /;"	d	file:
+dbg	angry.cpp	/^#define dbg /;"	d	file:
+dbg	art.cpp	/^#define dbg /;"	d	file:
+dbg	backforth.cpp	/^#define dbg /;"	d	file:
+dbg	badmilk.cpp	/^#define dbg /;"	d	file:
+dbg	balancing.cpp	/^#define dbg /;"	d	file:
+dbg	bcs.cpp	/^#define dbg /;"	d	file:
+dbg	blocks.cpp	/^#define dbg /;"	d	file:
+dbg	boilerplate.cpp	/^#define dbg /;"	d	file:
+dbg	bp20.cpp	/^#define dbg /;"	d	file:
+dbg	breedflip.cpp	/^#define dbg /;"	d	file:
+dbg	cbarn.cpp	/^#define dbg /;"	d	file:
+dbg	cc.cpp	/^#define dbg /;"	d	file:
+dbg	ccs.cpp	/^#define dbg /;"	d	file:
+dbg	cf.cpp	/^#define dbg /;"	d	file:
+dbg	cowphabet.cpp	/^#define dbg /;"	d	file:
+dbg	cowsignal.cpp	/^#define dbg /;"	d	file:
+dbg	cowtip.cpp	/^#define dbg /;"	d	file:
+dbg	daisychains.cpp	/^#define dbg /;"	d	file:
+dbg	diamond.cpp	/^#define dbg /;"	d	file:
+dbg	diamond2.cpp	/^#define dbg /;"	d	file:
+dbg	diamond3.cpp	/^#define dbg /;"	d	file:
+dbg	div7.cpp	/^#define dbg /;"	d	file:
+dbg	div7i2.cpp	/^#define dbg /;"	d	file:
+dbg	eh.cpp	/^#define dbg /;"	d	file:
+dbg	emop.cpp	/^#define dbg /;"	d	file:
+dbg	fenceplan.cpp	/^#define dbg /;"	d	file:
+dbg	guess.cpp	/^#define dbg /;"	d	file:
+dbg	hoofball.cpp	/^#define dbg /;"	d	file:
+dbg	hps.cpp	/^#define dbg /;"	d	file:
+dbg	js.cpp	/^#define dbg /;"	d	file:
+dbg	lp.cpp	/^#define dbg /;"	d	file:
+dbg	lp2.cpp	/^#define dbg /;"	d	file:
+dbg	lp3.cpp	/^#define dbg /;"	d	file:
+dbg	lp4.cpp	/^#define dbg /;"	d	file:
+dbg	milkorder.cpp	/^#define dbg /;"	d	file:
+dbg	milkvisits.cpp	/^#define dbg /;"	d	file:
+dbg	moocast.cpp	/^#define dbg /;"	d	file:
+dbg	mowing.cpp	/^#define dbg /;"	d	file:
+dbg	notlast.cpp	/^#define dbg /;"	d	file:
+dbg	pails.cpp	/^#define dbg /;"	d	file:
+dbg	paint.cpp	/^#define dbg /;"	d	file:
+dbg	paintbarn.cpp	/^#define dbg /;"	d	file:
+dbg	pairup.cpp	/^#define dbg /;"	d	file:
+dbg	promote.cpp	/^#define dbg /;"	d	file:
+dbg	pus.cpp	/^#define dbg /;"	d	file:
+dbg	scs.cpp	/^#define dbg /;"	d	file:
+dbg	speeding.cpp	/^#define dbg /;"	d	file:
+dbg	square.cpp	/^#define dbg /;"	d	file:
+dbg	swap.cpp	/^#define dbg /;"	d	file:
+dbg	traffic.cpp	/^#define dbg /;"	d	file:
+dbg	triangles.cpp	/^#define dbg /;"	d	file:
+dbg	wh.cpp	/^#define dbg /;"	d	file:
+dbg	yc.cpp	/^#define dbg /;"	d	file:
+dd	nother_tree.cpp	/^void dd(int r, int n, int p, int pa) {$/;"	f
+def	bessie_shuffle.cpp	/^vector<int> def;$/;"	v
+def	milk_sum.cpp	/^long long def[MAXN+1]; \/\/ original: milk\/min$/;"	v
+dfs	C.cpp	/^void dfs(int c, int t) {$/;"	f
+dfs	acsl09.cpp	/^void dfs(int n) {$/;"	f
+dfs	apple_tree.cpp	/^long long dfs(long long node, long long prev) {$/;"	f
+dfs	birthday.cpp	/^void dfs(int n, int a1, int a2) {$/;"	f
+dfs	building_teams.cpp	/^void dfs(int n, int p, const int l) {$/;"	f
+dfs	char_issues.cpp	/^long long dfs(long long n, long long l) {$/;"	f
+dfs	closing.cpp	/^void dfs(set<int>& vis, int r) {$/;"	f
+dfs	closing2.cpp	/^void dfs(vector<bool>& vis, int r) {$/;"	f
+dfs	cosmic_reactions.cpp	/^void dfs(int n) {$/;"	f
+dfs	cowntagion.cpp	/^int dfs(int r, int p) {$/;"	f
+dfs	cut-ribbon.cpp	/^void dfs(int l, int rl) {$/;"	f
+dfs	dist_in_tree.cpp	/^void dfs(ll n, ll p) {$/;"	f
+dfs	factory.cpp	/^set<int>& dfs(map<int, vector<int> >& graph, int n, set<int>& vis) {$/;"	f
+dfs	gen_paths.cpp	/^void dfs(int r, int n, int p, long long bs) {$/;"	f
+dfs	graph_no_paths.cpp	/^void dfs(int node, bool color) {$/;"	f
+dfs	kefa_park.cpp	/^long long dfs(long long node, long long prev, long long cats) {$/;"	f
+dfs	mahmoud.cpp	/^void dfs(long long node, bool color) {$/;"	f
+dfs	me_bipartite.cpp	/^void dfs(long long node, bool color) {$/;"	f
+dfs	moocast.cpp	/^void dfs(pair<int, int> r, set<pair<int, int>>& nv, map<pair<int, int>, vector<pair<int, int>>>& g) {$/;"	f
+dfs	nother_tree.cpp	/^void dfs(int r, int n, int p, set<int> bs) {$/;"	f
+dfs	pandamonium.cpp	/^int dfs (int u, int p, int t) {$/;"	f
+dfs	path_prefixes.cpp	/^void dfs(int n, int sum) {$/;"	f
+dfs	round_trip.cpp	/^void dfs(ll n, ll p, const ll l) {$/;"	f
+dfs	selecting_nodes.cpp	/^void dfs(long long v, long long p, long long d) {$/;"	f
+dfs	tree_distances.cpp	/^int dfs(int n, int l, int i, int p) {$/;"	f
+dfs	wealth_disparity.cpp	/^pair<int, int> dfs(int node) {$/;"	f
+dfs	wormsort.cpp	/^bool dfs(vector<int> cs, set<vector<int>> memo, int i, vector<int> prev) {$/;"	f
+dfs_b	meeting.cpp	/^void dfs_b(int f, int t) {$/;"	f
+dfs_e	meeting.cpp	/^void dfs_e(int f, int t) {$/;"	f
+digi	count_digi_sum.cpp	/^int digi(string limit, int n, int xr, bool b) {$/;"	f
+dist	inoi1402.cpp	/^int dist[maxc][maxc];$/;"	v
+dist	selecting_nodes.cpp	/^vector<long long> dist;$/;"	v
+dist	tree_distances.cpp	/^int dist[2][200001], N;$/;"	v
+distance	B.cpp	/^ll distance(int gi, ll a, ll b) {$/;"	f
+div_factorials	creating_str2.cpp	/^stack<long long> div_factorials;$/;"	v
+divisors	common_divisors.cpp	/^int N, divisors[MAX+1];$/;"	v
+dll	dist_in_tree.cpp	/^typedef vector<ll> dll;$/;"	t	file:
+doIntersect	circlecross.cpp	/^bool doIntersect(vector<int>* first, vector<int>* second) {$/;"	f
+do_intersect	pairs_of_segs.cpp	/^bool do_intersect(pair<int, int> a, pair<int, int> b) {$/;"	f
+dp	add_one.cpp	/^int dp[200001];$/;"	v
+dp	coin_combos2.cpp	/^int dp[1000001];$/;"	v
+dp	count_digi_sum.cpp	/^int dp[18][180][2]; \/\/ last digit chosen, sum, 0\/1 is the prefix equal to num;$/;"	v
+dp	counting_sub.cpp	/^int dp(int node) {$/;"	f
+dp	counting_towers.cpp	/^int dp[1000002][2];$/;"	v
+dp	dice_prob.cpp	/^double dp[605][605];$/;"	v
+dp	dist_in_tree.cpp	/^ll dp[50005][505] = {0};$/;"	v
+dp	game_routes.cpp	/^ll dp(ll v) {$/;"	f
+dp	high_tech_farm.cpp	/^bool dp[500][500][2];$/;"	v
+dp	hoof_paper_scissors.cpp	/^int dp[100000][20];$/;"	v
+dp	max_sum_prod.cpp	/^long long dp[5000][5000];$/;"	v
+dp	min_coins.cpp	/^int dp[1000001];$/;"	v
+dp	remgametrial.cpp	/^long long dp[5000][5000];$/;"	v
+dp	tinoi17b.cpp	/^long long dp[5005][5005];$/;"	v
+driver	count_digi_sum.cpp	/^int driver(int start) {$/;"	f
+ds	crypt1.cpp	/^set<int> ds;$/;"	v
+ds	nother_tree.cpp	/^void ds() {$/;"	f
+dsize	namenum.cpp	/^const int dsize = 4167;$/;"	v
+dsu	wormhole-sort.cpp	/^int dsu[1000000];$/;"	v
+dsu_leader	connecting2barns.cpp	/^int dsu_leader(int a) {$/;"	f
+dsu_merge	connecting2barns.cpp	/^void dsu_merge(int a, int b) {$/;"	f
+dsu_reset	connecting2barns.cpp	/^void dsu_reset() {$/;"	f
+e	building_roads.cpp	/^	vector<int> e;$/;"	m	struct:DSU	file:
+e	catch_me.cpp	/^long long n, e, x, k;$/;"	v
+e	dance_moovesS.cpp	/^	vector<int> e;$/;"	m	struct:DSU	file:
+e	dsu_temp.cpp	/^	vector<int> e;$/;"	m	struct:DSU	file:
+e	health_insp.cpp	/^	vector<int> e;$/;"	m	struct:DSU	file:
+e	vinland_saga.cpp	/^	vector<int> e;$/;"	m	struct:DSU	file:
+edgelist	tele_call.cpp	/^    vector<vector<int> > edgelist;$/;"	m	class:Graph	file:
+el	meeting.cpp	/^vector<int> bes, el;$/;"	v
+emp	counting_sub.cpp	/^int emp[200001];$/;"	v
+endl	cow_frisbee.cpp	/^cout << ans << endl;$/;"	v
+er	sliding_cost.cpp	/^void er(long val) {  \/\/ erase from sets$/;"	f
+er	sliding_median.cpp	/^void er(long val) {  \/\/ erase from sets$/;"	f
+even	nearest_opp_parity.cpp	/^vector<int> arr, even, odd;$/;"	v
+exp	choose_temp.cpp	/^long long exp(long long x, unsigned long long y, const long long p){$/;"	f
+exp	creating_str2.cpp	/^long long exp(long long x, unsigned long long y, const long long p){$/;"	f
+exp	mod_inverse_temp.cpp	/^int exp(int x, unsigned int y, const int p){$/;"	f
+exp	potw1p2.cpp	/^long long exp(long long x, unsigned long long y){$/;"	f
+f	Anew.cpp	/^int f(int prev, int b) {$/;"	f
+f	barn_tree.cpp	/^ll f(const int prev, const int b) {$/;"	f
+f	books.cpp	/^#defi/;"	d	file:
+f	cosmic_reactions.cpp	/^map<int, int> f;$/;"	v
+f	counting_rooms.cpp	/^void f(int x, int y) {$/;"	f
+f	cow_dance_show.cpp	/^bool f(int k) {$/;"	f
+f	cow_marriage.cpp	/^ll f(ll x, ll y) {$/;"	f
+f	cowdance.cpp	/^int f(int k, vector<int>& dt) {$/;"	f
+f	dance_show_shitty.cpp	/^bool f(int nc) {$/;"	f
+f	editdist.cpp	/^int f(int i, int j) {$/;"	f
+f	editdist_bu.cpp	/^int f(int i, int j) {$/;"	f
+f	flood_fill_temp.cpp	/^void f(int x, int y) {$/;"	f
+f	following_directions.cpp	/^int f() {$/;"	f
+f	grid_paths.cpp	/^int f(int i, int j) {$/;"	f
+f	hopscotch.cpp	/^void f(int x, int y) {$/;"	f
+f	inoi1402.cpp	/^int c, f;$/;"	v
+f	labby.cpp	/^void f(int x, int y, string s) {$/;"	f
+f	par_problem3.cpp	/^long long f(long long i, long long j) {$/;"	f
+f	range_recontruction.cpp	/^int f(int ma, int mi) {$/;"	f
+f	rectcut.cpp	/^int f(int i, int j) {$/;"	f
+f	segtree_neel.cpp	/^int f(int x, int y) {$/;"	f
+f	segtreetemp.cpp	/^int f(int x, int y) {$/;"	f
+f	wifi.cpp	/^double f(int n) {$/;"	f
+f	wormhole-sort.cpp	/^bool f(int x) {$/;"	f
+f1	dance_show_shitty.cpp	/^bool f1(int nc) {$/;"	f
+f1	graycode.cpp	/^int f1(int n) {$/;"	f
+f2	dance_show_shitty.cpp	/^bool f2(int k) {$/;"	f
+fac	choose_temp.cpp	/^long long fac[maxn], inv[maxn];$/;"	v
+fac	creating_str2.cpp	/^long long fac[MAXN], inv[MAXN];$/;"	v
+fac	mod_inverse_temp.cpp	/^int fac[MAXN], inv[MAXN];$/;"	v
+fac	potw1p2.cpp	/^long long fac[maxn], inv[maxn];$/;"	v
+fact	close_tuples.cpp	/^ll fact[N];$/;"	v
+fact	placing_rooks.cpp	/^int fact[N];$/;"	v
+factors	countdiv.cpp	/^set<int> factors;$/;"	v
+fast_pow	close_tuples.cpp	/^ll fast_pow(ll a, ll p) {$/;"	f
+fb	outofplace.cpp	/^int fb(int *l, int N) {$/;"	f
+fb_neel	outofplace.cpp	/^int fb_neel(int *l, int N) {$/;"	f
+fbs	outofplace.cpp	/^int fbs(int *l, int N, int bp) {$/;"	f
+fbs_neel	outofplace.cpp	/^int fbs_neel(int *l, int N, int bp) {$/;"	f
+fbsdumdum	outofplace.cpp	/^int fbsdumdum(int *l, int N, int bp) {$/;"	f
+fcomp	ms.cpp	/^bool fcomp(vector<int> i, vector<int> j) {$/;"	f
+ff	ccski.cpp	/^void ff(int rat, int x, int y) {$/;"	f
+ff	counting_rooms.cpp	/^void ff(int n, int m) {$/;"	f
+ff	flood_fill_temp.cpp	/^void ff(int n, int m) {$/;"	f
+ff	lightson.cpp	/^void ff(int i, int j) {$/;"	f
+ff	perimeter.cpp	/^void ff(int i, int j, pair<int, int>& ans, \/*int (*v)[1001][1001],*\/ pair<int, int> p) {$/;"	f
+ff	solve_maze.cpp	/^void ff(int x, int y) {$/;"	f
+fib	fib-bottomup.cpp	/^int fib(int n) {$/;"	f
+fib	fib-memoize.cpp	/^int fib(int n) {$/;"	f
+fib	fib.cpp	/^int fib(int n) {$/;"	f
+field	closest-cow-wins.cpp	/^vector<pair<int, int>> field;$/;"	v
+fillbarn	paintbarn.cpp	/^void fillbarn(int x1, int y1, int x2, int y2) {$/;"	f
+finans	connecting2barns.cpp	/^vector<int> finans;$/;"	v
+find	tele_call.cpp	/^    int find(int i)$/;"	f	class:DSU
+findItems	blah.cpp	/^ll findItems(ll arr[], ll n, ll temp) {$/;"	f
+findSet	min_spanning_tree_temp.cpp	/^int findSet(int i) { if (p[i] == i) return i; return p[i] = findSet(p[i]); }$/;"	f
+findSet	superbull.cpp	/^int findSet(int i) { if (p[i] == i) return i; return p[i] = findSet(p[i]); }$/;"	f
+find_adj	planting.cpp	/^vector<int>& find_adj(map<int, vector<int> >& graph, int n, vector<int>& adjn, int level) {$/;"	f
+find_common	badmilk.cpp	/^vector<int> find_common(map<int, set<int>> &sm, vector<int> &s, int S) {$/;"	f
+find_cost	sliding_cost.cpp	/^int find_cost() {$/;"	f
+find_index	intersorting.cpp	/^int find_index(string s, int n, char K)$/;"	f
+find_left	par_problem3.cpp	/^long long find_left(string& s, const long long r) {$/;"	f
+find_left	sk.cpp	/^int find_left(string& s, const int r) {$/;"	f
+find_newpos	day2c.cpp	/^int find_newpos(int len, int pos) {$/;"	f
+findcc	fenceplan.cpp	/^void findcc (set<int>& visited, map<int, vector<int>>& mn, vector<int>& ans, int r) {$/;"	f
+finddi	treedist1.cpp	/^pair<int, int> finddi(int r) {$/;"	f
+findf	treedist1.cpp	/^int findf(int r) {$/;"	f
+first_true	cow_dance_show.cpp	/^int first_true(int lo, int hi) {$/;"	f
+first_true	dance_show_shitty.cpp	/^int first_true(int lo, int hi) {$/;"	f
+first_true	dishwashing.cpp	/^int first_true(int x) {$/;"	f
+fj	combo.cpp	/^int fj[3], mast[3], N;$/;"	v
+fj	hoof_paper_scissors.cpp	/^int fj[100000];$/;"	v
+flights	C.cpp	/^vector<vector<pair<int, ii>>> flights;$/;"	v
+flood_fill_curr	connect.cpp	/^void flood_fill_curr(int x, int y) {$/;"	f
+flood_fill_wish	connect.cpp	/^void flood_fill_wish(int x, int y) {$/;"	f
+foo	scf.cpp	/^void foo() {$/;"	f
+forest	forest_queries.cpp	/^int forest[MAX_SIDE + 1][MAX_SIDE + 1];$/;"	v
+fromDeci	dualpal.cpp	/^string fromDeci(string& res, int base, int inputNum)$/;"	f
+fromDeci	palsquare.cpp	/^string fromDeci(string& res, int base, int inputNum)$/;"	f
+fx	sri.cpp	/^int64_t fx, fy;$/;"	v
+fy	sri.cpp	/^int64_t fx, fy;$/;"	v
+g	01knapsack.cpp	/^int p[1001], g[1001];$/;"	v
+g	B.cpp	/^int g, n;$/;"	v
+g	catch_me.cpp	/^vector<long long> g[100001];$/;"	v
+g	connect.cpp	/^int g[50][50];$/;"	v
+g	counting_rooms.cpp	/^int g[1001][1001], n, m, ans = 0;$/;"	v
+g	cowntagion.cpp	/^vector<int> g[100005];$/;"	v
+g	fight_traffic.cpp	/^vector<int> g[1010];$/;"	v
+g	flood_fill_temp.cpp	/^int g[1001][1001];$/;"	v
+g	following_directions.cpp	/^int N, Q, g[1501][1501], memo[1501][1501];$/;"	v
+g	graph_no_paths.cpp	/^vector<int> g[500001];$/;"	v
+g	gridpaths.cpp	/^bool g[N][N];$/;"	v
+g	high_tech_farm.cpp	/^vector<array<int, 3>> g[510][510];$/;"	v
+g	hopscotch.cpp	/^char g[15][15];$/;"	v
+g	inoi1402.cpp	/^vector<ii> g[maxc];$/;"	v
+g	labby.cpp	/^int g[1001][1001], n, m;$/;"	v
+g	labrynth.cpp	/^bool g[2010][2010];$/;"	v
+g	meeting_socho.cpp	/^vector<array<int, 2>> g[100010];$/;"	v
+g	nearest_opp_parity.cpp	/^vector<int> g[200010];$/;"	v
+g	parade.cpp	/^vector<vector<pair<int, int>>> g;$/;"	v
+g	pattern_matching.cpp	/^vector<vector<char> > g;$/;"	v
+g	perimeter.cpp	/^int g[1000][1000];$/;"	v
+g	quantum_superpos.cpp	/^vector<int> g[2][1010];$/;"	v
+g	remgametrial.cpp	/^vector<long long> g, ps;$/;"	v
+g	stuck_inna_rut.cpp	/^map<int, vector<int>> g;$/;"	v
+g	treed.cpp	/^vector<int> g[200001];$/;"	v
+g	treedist1.cpp	/^vector<int> g[200001];$/;"	v
+g	wealth_disparity.cpp	/^vector<int> g[MAXN];$/;"	v
+g	wh.cpp	/^int g[50][50];$/;"	v
+gchange	pattern_matching.cpp	/^void gchange(int i, int j, char c) {$/;"	f
+gcount	solve_maze.cpp	/^int gcount = 0, n, m;$/;"	v
+gen_lps	kmp.cpp	/^vector<int> gen_lps(string s) {$/;"	f
+gencombos	crypt1.cpp	/^void gencombos(int level, array<int, 5> combo) {$/;"	f
+get	building_roads.cpp	/^	int get(int x) { return e[x] < 0 ? x : e[x] = get(e[x]); }$/;"	f	struct:DSU
+get	dance_moovesS.cpp	/^	int get(int x) { return e[x] < 0 ? x : e[x] = get(e[x]); }$/;"	f	struct:DSU
+get	dsu_temp.cpp	/^	int get(int x) { return e[x] < 0 ? x : e[x] = get(e[x]); }$/;"	f	struct:DSU
+get	health_insp.cpp	/^	int get(int x) { return e[x] < 0 ? x : e[x] = get(e[x]); }$/;"	f	struct:DSU
+get	vinland_saga.cpp	/^	int get(int x) { return e[x] < 0 ? x : e[x] = get(e[x]); }$/;"	f	struct:DSU
+getFirstAvailable	milkorder.cpp	/^int getFirstAvailable() {$/;"	f
+getLastAvailableBefore	milkorder.cpp	/^int getLastAvailableBefore(int l) {$/;"	f
+get_leader	wormhole-sort.cpp	/^int get_leader(int a) {$/;"	f
+get_readings1_after	backforth.cpp	/^    int get_readings1_after(int n)$/;"	f	struct:tanks
+get_sliding_sum	closest-cow-wins.cpp	/^ll get_sliding_sum(int s, int e) {$/;"	f
+get_speeds	speeding.cpp	/^pair<int, int> get_speeds(vector<pair<int, int> > s2sl, vector<pair<int, int> > s2bs, int d) {$/;"	f
+get_strings	cownomics.cpp	/^void get_strings(const vector<string>& s, int a, int b, int c, unordered_set<string>& strs) {$/;"	f
+get_substr	cownomics.cpp	/^inline void get_substr(const string& s, int a, int b, int c, ostringstream& os) {$/;"	f
+get_sum	closest-cow-wins.cpp	/^ll get_sum(int s, int e) {$/;"	f
+get_within_br	angry_sk.cpp	/^vector<int>* get_within_br(vector<int>& bale_pos, int start_bale, int br, set<int>& exploded)$/;"	f
+grid	ccski.cpp	/^int N, M, grid[501][501], ans;$/;"	v
+grid	cow_hopscotch.cpp	/^int grid[100][100], r, c, k, memo[100][100];$/;"	v
+grid	grid_path_itr.cpp	/^bool grid[1000][1000];$/;"	v
+grid	grid_paths.cpp	/^bool grid[1000][1000];$/;"	v
+grid	high_tech_farm.cpp	/^int grid[500][500];$/;"	v
+gs	B.cpp	/^vector<pair<ll, ii>> gs;$/;"	v
+h	leftout.cpp	/^bool h[1000][1000];$/;"	v
+h1	meetmid.cpp	/^vector<long long> h1, h2;$/;"	v
+h1	meetmidbad.cpp	/^vector<long long> h1, h2;$/;"	v
+h2	meetmid.cpp	/^vector<long long> h1, h2;$/;"	v
+h2	meetmidbad.cpp	/^vector<long long> h1, h2;$/;"	v
+has_cat	kefa_park.cpp	/^bool has_cat[200010];$/;"	v
+has_cycles	building_teams.cpp	/^bool has_cycles(int n, int p) {$/;"	f
+hash_add	hash_ll.cpp	/^void hash_add(int val) {$/;"	f
+hash_ll	hash_ll.cpp	/^vector<lli> hash_ll;$/;"	v
+hash_string	finding_patterns.cpp	/^long long hash_string(string n) {$/;"	f
+hashes	finding_patterns.cpp	/^set<long long> hashes; string n; int k;$/;"	v
+hello	hello.cpp	/^void hello() {$/;"	f
+helloi	hello.cpp	/^void helloi(int i) {$/;"	f
+hellor	hello.cpp	/^void hellor(int &i) {$/;"	f
+highest	milk_sum.cpp	/^long long highest; \/\/ orginal highest$/;"	v
+ib	amongus2.cpp	/^#define ib /;"	d	file:
+identify_parts	txter.cpp	/^vector<string> identify_parts(string sen) {$/;"	f
+ii	2long.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	Anew.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	B.cpp	/^typedef pair<ll, ll> ii;$/;"	t	file:
+ii	C.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	barn_tree.cpp	/^typedef pair<ll, ll> ii;$/;"	t	file:
+ii	building_roads.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	ccski.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	counting_rooms.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	defaulttemp.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	dijktra_temp.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	fileiotemp.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	flood_fill_temp.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	following_directions.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	help_yourself.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	high_card_gold.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	inoi1402.cpp	/^typedef pair<int,int> ii;$/;"	t	file:
+ii	labby.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	lazy.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	loan_replacement.cpp	/^typedef pair<ll, ll> ii;$/;"	t	file:
+ii	meeting.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	min_spanning_tree_temp.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	monsters.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	range_recontruction.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	round_trip.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	segtree.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	superbull.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+ii	watermellon.cpp	/^typedef pair<int, int> ii;$/;"	t	file:
+in	abc.cpp	/^#define/;"	d	file:
+in	ac.cpp	/^#define/;"	d	file:
+in	angry.cpp	/^#define/;"	d	file:
+in	art.cpp	/^#define/;"	d	file:
+in	backforth.cpp	/^#define/;"	d	file:
+in	badmilk.cpp	/^#define/;"	d	file:
+in	balancing.cpp	/^#define/;"	d	file:
+in	bcs.cpp	/^#define/;"	d	file:
+in	blist.cpp	/^#define/;"	d	file:
+in	blocks.cpp	/^#define/;"	d	file:
+in	boilerplate.cpp	/^#define/;"	d	file:
+in	bp20.cpp	/^#define/;"	d	file:
+in	breedflip.cpp	/^#define/;"	d	file:
+in	cbarn.cpp	/^#define/;"	d	file:
+in	cc.cpp	/^#define/;"	d	file:
+in	ccs.cpp	/^#define/;"	d	file:
+in	cf.cpp	/^#define/;"	d	file:
+in	circlecross.cpp	/^#define/;"	d	file:
+in	cownomics.cpp	/^#define/;"	d	file:
+in	cowphabet.cpp	/^#define/;"	d	file:
+in	cowsignal.cpp	/^#define/;"	d	file:
+in	cowtip.cpp	/^#define/;"	d	file:
+in	daisychains.cpp	/^#define/;"	d	file:
+in	diamond.cpp	/^#define/;"	d	file:
+in	diamond2.cpp	/^#define/;"	d	file:
+in	diamond3.cpp	/^#define/;"	d	file:
+in	div7.cpp	/^#define/;"	d	file:
+in	div7i2.cpp	/^#define/;"	d	file:
+in	eh.cpp	/^#define/;"	d	file:
+in	emop.cpp	/^#define/;"	d	file:
+in	fenceplan.cpp	/^#define/;"	d	file:
+in	gridpaths.cpp	/^string in;$/;"	v
+in	guess.cpp	/^#define/;"	d	file:
+in	gymnastics.cpp	/^#define/;"	d	file:
+in	herding.cpp	/^#define/;"	d	file:
+in	hoofball.cpp	/^#define/;"	d	file:
+in	hps.cpp	/^#define/;"	d	file:
+in	js.cpp	/^#define/;"	d	file:
+in	lp.cpp	/^#define/;"	d	file:
+in	lp2.cpp	/^#define/;"	d	file:
+in	lp3.cpp	/^#define/;"	d	file:
+in	lp4.cpp	/^#define/;"	d	file:
+in	milkorder.cpp	/^#define/;"	d	file:
+in	milkvisits.cpp	/^#define/;"	d	file:
+in	moocast.cpp	/^#define/;"	d	file:
+in	mowing.cpp	/^#define/;"	d	file:
+in	nestedrcount.cpp	/^int in[maxN], con[maxN], st[2*stN+1];$/;"	v
+in	notlast.cpp	/^#define/;"	d	file:
+in	outofplace.cpp	/^#define/;"	d	file:
+in	pails.cpp	/^#define/;"	d	file:
+in	paint.cpp	/^#define/;"	d	file:
+in	paintbarn.cpp	/^#define/;"	d	file:
+in	pairup.cpp	/^#define/;"	d	file:
+in	promote.cpp	/^#define/;"	d	file:
+in	pus.cpp	/^#define/;"	d	file:
+in	range_recontruction.cpp	/^int n, in[300][300];$/;"	v
+in	rut.cpp	/^#define/;"	d	file:
+in	scs.cpp	/^#define/;"	d	file:
+in	speeding.cpp	/^#define/;"	d	file:
+in	square.cpp	/^#define/;"	d	file:
+in	swap.cpp	/^#define/;"	d	file:
+in	tracing.cpp	/^#define/;"	d	file:
+in	tracing1.cpp	/^#define/;"	d	file:
+in	traffic.cpp	/^#define/;"	d	file:
+in	triangles.cpp	/^#define/;"	d	file:
+in	tttt.cpp	/^#define/;"	d	file:
+in	wh.cpp	/^#define/;"	d	file:
+in	wordcombo-struct.cpp	/^string in;$/;"	v
+in	wordcombo.cpp	/^string in;$/;"	v
+in	yc.cpp	/^#define/;"	d	file:
+in2val	ranom_nums.cpp	/^map<int, int> in2val = {{0,1}, {1,10}, {2,100}, {3,1000}, {4,10000}};$/;"	v
+inf	mismatched_mat.cpp	/^const int inf = 1e18;$/;"	v
+inf	wifi.cpp	/^const double inf = std::numeric_limits<double>::max(); \/\/ 99000000000.0;$/;"	v
+inflow	traffic.cpp	/^void inflow(tuple<int, int, int> *r, int N) {$/;"	f
+init	angry_sk.cpp	/^void init()$/;"	f
+init	cow_marriage.cpp	/^void init(ll a[], ll S) {$/;"	f
+init	dance_moovesS.cpp	/^	void init(int N) { e = vi(N, -1); }$/;"	f	struct:DSU
+init	segtree_neel.cpp	/^void init(int a[], int S) {$/;"	f
+init	segtreetemp.cpp	/^void init(int a[], int S) {$/;"	f
+initR	cow_marriage.cpp	/^void initR(ll a[], int node, int l, int r) {$/;"	f
+initR	segtree_neel.cpp	/^void initR(int a[], int node, int l, int r) {$/;"	f
+initR	segtreetemp.cpp	/^void initR(int a[], int node, int l, int r) {$/;"	f
+init_bessie	par_problem3.cpp	/^void init_bessie() {$/;"	f
+init_bessie	sk.cpp	/^void init_bessie() {$/;"	f
+init_ll	hash_ll.cpp	/^void init_ll() {$/;"	f
+initdsu	wormhole-sort.cpp	/^void initdsu(int size) {$/;"	f
+ins	sliding_cost.cpp	/^void ins(long val) {         \/\/ insert val into sets$/;"	f
+ins	sliding_median.cpp	/^void ins(long val) {         \/\/ insert val into sets$/;"	f
+insert	wordcombo-struct.cpp	/^void insert(tnode* r, string s) {$/;"	f
+insert	wordcombo.cpp	/^void insert(string s) {$/;"	f
+inset	nestedrcount.cpp	/^ordered_set inset, outset;$/;"	v
+int	add_one.cpp	/^#define int /;"	d	file:
+int	array_game.cpp	/^#define int /;"	d	file:
+int	attedance.cpp	/^#define int /;"	d	file:
+int	cascading_sums.cpp	/^#define int /;"	d	file:
+int	count_digi_sum.cpp	/^#define int /;"	d	file:
+int	counting_towers.cpp	/^#define int /;"	d	file:
+int	ddawg.cpp	/^#define int /;"	d	file:
+int	fj_pics.cpp	/^#define int /;"	d	file:
+int	game_on_arr.cpp	/^#define int /;"	d	file:
+int	inoi2002.cpp	/^#define int /;"	d	file:
+int	mismatched_mat.cpp	/^#define int /;"	d	file:
+int	mod_inverse_temp.cpp	/^#define int /;"	d	file:
+int	optimal_hall.cpp	/^#define int /;"	d	file:
+int	parade.cpp	/^#define int /;"	d	file:
+int	rect_pasture.cpp	/^#define int /;"	d	file:
+int	wealth_disparity.cpp	/^#define int /;"	d	file:
+intersect	line_seg_intersection.cpp	/^bool intersect(ii a1, ii b1, ii a2, ii b2) {$/;"	f
+intlog	trailing0s.cpp	/^int intlog(int base, int x) {$/;"	f
+inv	choose_temp.cpp	/^long long fac[maxn], inv[maxn];$/;"	v
+inv	creating_str2.cpp	/^long long fac[MAXN], inv[MAXN];$/;"	v
+inv	mod_inverse_temp.cpp	/^int fac[MAXN], inv[MAXN];$/;"	v
+inv	placing_rooks.cpp	/^int inv(int x)$/;"	f
+inv	potw1p2.cpp	/^long long fac[maxn], inv[maxn];$/;"	v
+invCount	array_game.cpp	/^int invCount(int* a, int left, int right, int s) {$/;"	f
+invFact	close_tuples.cpp	/^ll invFact[N];$/;"	v
+io	angry.cpp	/^void io(string f) {$/;"	f
+io	art.cpp	/^void io(string f) {$/;"	f
+io	backforth.cpp	/^void io(string f) {$/;"	f
+io	badmilk.cpp	/^void io(string f) {$/;"	f
+io	balancing.cpp	/^void io(string f) {$/;"	f
+io	blocks.cpp	/^void io(string f) {$/;"	f
+io	boilerplate.cpp	/^void io(string f) {$/;"	f
+io	breedflip.cpp	/^void io(string f) {$/;"	f
+io	cbarn.cpp	/^void io(string f) {$/;"	f
+io	cowsignal.cpp	/^void io(string f) {$/;"	f
+io	cowtip.cpp	/^void io(string f) {$/;"	f
+io	diamond.cpp	/^void io(string f) {$/;"	f
+io	diamond2.cpp	/^void io(string f) {$/;"	f
+io	diamond3.cpp	/^void io(string f) {$/;"	f
+io	div7.cpp	/^void io(string f) {$/;"	f
+io	div7i2.cpp	/^void io(string f) {$/;"	f
+io	fenceplan.cpp	/^void io(string f) {$/;"	f
+io	hoofball.cpp	/^void io(string f) {$/;"	f
+io	hps.cpp	/^void io(string f) {$/;"	f
+io	lifeguards.cpp	/^void io(string f) {$/;"	f
+io	lifeguards2.cpp	/^void io(string f) {$/;"	f
+io	milkorder.cpp	/^void io(string f) {$/;"	f
+io	milkvisits.cpp	/^void io(string f) {$/;"	f
+io	moocast.cpp	/^void io(string f) {$/;"	f
+io	mowing.cpp	/^void io(string f) {$/;"	f
+io	notlast.cpp	/^void io(string f) {$/;"	f
+io	pails.cpp	/^void io(string f) {$/;"	f
+io	paint.cpp	/^void io(string f) {$/;"	f
+io	paintbarn.cpp	/^void io(string f) {$/;"	f
+io	pairup.cpp	/^void io(string f) {$/;"	f
+io	promote.cpp	/^void io(string f) {$/;"	f
+io	pus.cpp	/^void io(string f) {$/;"	f
+io	scs.cpp	/^void io(string f) {$/;"	f
+io	speeding.cpp	/^void io(string f) {$/;"	f
+io	square.cpp	/^void io(string f) {$/;"	f
+io	swap.cpp	/^void io(string f) {$/;"	f
+io	triangles.cpp	/^void io(string f) {$/;"	f
+is	sri.cpp	/^vector<pair<int64_t, int64_t>> is;$/;"	v
+isPalindrome	dualpal.cpp	/^bool isPalindrome(string S)$/;"	f
+isPalindrome	palsquare.cpp	/^bool isPalindrome(string S)$/;"	f
+is_covered	whitesheet.cpp	/^bool is_covered(long long x, long long y, long long x1, long long y1, long long x2, long long y2, long long x3, $/;"	f
+is_sorted	outofplace.cpp	/^bool is_sorted(const int* const l, const int N, const int ignore) {$/;"	f
+is_valid	range_recontruction.cpp	/^bool is_valid(int x, int p) {$/;"	f
+is_valid	srg.cpp	/^bool is_valid(const vector<int>& g) {$/;"	f
+iscon	moocast.cpp	/^int iscon(int x1, int y1, int x2, int y2, int bcd) {$/;"	f
+iscw	cf.cpp	/^bool iscw(string d) {$/;"	f
+isleap	friday.cpp	/^isleap(int y)$/;"	f
+ispof2	sss.cpp	/^bool ispof2(int N)$/;"	f
+isprime	t-primes.cpp	/^bool isprime(long long n) {$/;"	f
+iss	wormsort.cpp	/^bool iss(vector<int> cs) {$/;"	f
+ist	arraydiv.cpp	/^bool ist(ll m) {$/;"	f
+iswall	gridpaths.cpp	/^inline bool iswall(int x, int y) {$/;"	f
+isword	wordcombo-struct.cpp	/^    bool isword;$/;"	m	struct:tnode	file:
+isword	wordcombo.cpp	/^bool isword[1000001];$/;"	v
+k	arraydiv.cpp	/^ll n, k;$/;"	v
+k	calvins_game.cpp	/^int n, k, memo[2000000], val[2000000], memorev[2000000];$/;"	v
+k	catch_me.cpp	/^long long n, e, x, k;$/;"	v
+k	char_issues.cpp	/^long long n, k, tree[1001][2], pindex[1001];$/;"	v
+k	closest-cow-wins.cpp	/^int k, m, n;$/;"	v
+k	cow_hopscotch.cpp	/^int grid[100][100], r, c, k, memo[100][100];$/;"	v
+k	day3e.cpp	/^int n, k, d;$/;"	v
+k	diamond_collecter.cpp	/^int n, k;$/;"	v
+k	dist_in_tree.cpp	/^ll n, k, ans = 0;$/;"	v
+k	finding_patterns.cpp	/^set<long long> hashes; string n; int k;$/;"	v
+k	foo.cpp	/^int n, k;$/;"	v
+k	max_med.cpp	/^long long n, k;$/;"	v
+k	max_median.cpp	/^int n, k;$/;"	v
+k	nother_tree.cpp	/^int n, k;$/;"	v
+k	pails_silver.cpp	/^int x, y, k, m, ans = 2000000000;$/;"	v
+k	sliding_cost.cpp	/^long N, k;$/;"	v
+k	sliding_median.cpp	/^long N, k;$/;"	v
+k	vinland_saga.cpp	/^vector<array<int, 3>> k;$/;"	v
+k	wordcombo-struct.cpp	/^int k, n;$/;"	v
+k	wordcombo.cpp	/^int k, n;$/;"	v
+keyify	pattern_matching.cpp	/^int keyify(int i, int j) {$/;"	f
+keyp	pattern_matching.cpp	/^int keyp() {$/;"	f
+kruskals_mst	tele_call.cpp	/^    void kruskals_mst()$/;"	f	class:Graph
+ks	factorymachines.cpp	/^vector<ll> ks;$/;"	v
+l	count_digi_sum.cpp	/^int l, r;$/;"	v
+l	lightson.cpp	/^char l[101][101];$/;"	v
+lab	monsters.cpp	/^int n, m, lab[SIZE][SIZE];$/;"	v
+last_true	B.cpp	/^int last_true(int lo, int hi, int val) {$/;"	f
+last_true	loan_replacement.cpp	/^ll last_true(ll lo, ll hi, function<bool(ll)> f) {$/;"	f
+last_true	max_median.cpp	/^int last_true(int lo, int hi, function<bool(int)> f) {$/;"	f
+last_true	milk_sum.cpp	/^long long last_true(long long lo, long long hi, long long val) {$/;"	f
+last_true_	B.cpp	/^int last_true_(int lo, int hi, ll val) {$/;"	f
+lay	C.cpp	/^int lay[SIZE];$/;"	v
+ld	nssol.cpp	/^#define ld /;"	d	file:
+let2num	namenum.cpp	/^map<char, string> let2num;$/;"	v
+let2numf	namenum.cpp	/^string let2numf(char c) {$/;"	f
+lft	labrynth.cpp	/^int n, m, sX, sY, lft, rght;$/;"	v
+li	nssol.cpp	/^#define li /;"	d	file:
+limit	build_gates.cpp	/^int limit = 5000;$/;"	v
+ll	2long.cpp	/^typedef long long ll;$/;"	t	file:
+ll	B.cpp	/^typedef long long ll;$/;"	t	file:
+ll	C.cpp	/^typedef long long ll;$/;"	t	file:
+ll	barn_tree.cpp	/^typedef long long ll;$/;"	t	file:
+ll	bessie_goes_moo.cpp	/^typedef long long ll;$/;"	t	file:
+ll	blah.cpp	/^typedef unsigned long long ll;$/;"	t	file:
+ll	building_roads.cpp	/^typedef long long ll;$/;"	t	file:
+ll	caw_uni.cpp	/^#define ll /;"	d	file:
+ll	ccski.cpp	/^typedef long long ll;$/;"	t	file:
+ll	counting_rooms.cpp	/^typedef long long ll;$/;"	t	file:
+ll	cow.cpp	/^typedef long long ll;$/;"	t	file:
+ll	cow_marriage.cpp	/^#define ll /;"	d	file:
+ll	defaulttemp.cpp	/^typedef long long ll;$/;"	t	file:
+ll	dist_in_tree.cpp	/^typedef long long ll;$/;"	t	file:
+ll	fileiotemp.cpp	/^typedef long long ll;$/;"	t	file:
+ll	flood_fill_temp.cpp	/^typedef long long ll;$/;"	t	file:
+ll	following_directions.cpp	/^typedef long long ll;$/;"	t	file:
+ll	game_routes.cpp	/^typedef long long ll;$/;"	t	file:
+ll	help_yourself.cpp	/^typedef long long ll;$/;"	t	file:
+ll	high_card_gold.cpp	/^typedef long long ll;$/;"	t	file:
+ll	labby.cpp	/^typedef long long ll;$/;"	t	file:
+ll	lazy.cpp	/^typedef long long ll;$/;"	t	file:
+ll	loan_replacement.cpp	/^typedef long long ll;$/;"	t	file:
+ll	missingcoinsum.cpp	/^typedef long long ll;$/;"	t	file:
+ll	monsters.cpp	/^typedef long long ll;$/;"	t	file:
+ll	numspiral.cpp	/^#define ll /;"	d	file:
+ll	return_socho.cpp	/^#define ll /;"	d	file:
+ll	round_trip.cpp	/^typedef long long ll;$/;"	t	file:
+ll	segtree.cpp	/^typedef long long ll;$/;"	t	file:
+ll	souvenir_prices.cpp	/^#define ll /;"	d	file:
+ll	sticklens.cpp	/^typedef long long ll;$/;"	t	file:
+ll	tutor.cpp	/^typedef long long ll;$/;"	t	file:
+ll	two_knights.cpp	/^typedef long long ll;$/;"	t	file:
+ll	watermellon.cpp	/^typedef long long ll;$/;"	t	file:
+llby2	sss.cpp	/^long long llby2 = LLONG_MAX\/2;$/;"	v
+lli	hash_ll.cpp	/^struct lli {$/;"	s	file:
+lli	nssol.cpp	/^#define lli /;"	d	file:
+lls	diamond2.cpp	/^int lls(int i, vector<int> d, int K) {$/;"	f
+lls	diamond3.cpp	/^int lls(int i, const vector<int>& d, int K) {$/;"	f
+lng	min_dist.cpp	/^vector<int> lng, shrt;$/;"	v
+lp	cow_marriage.cpp	/^ll* lp;$/;"	v
+lp	segtree_neel.cpp	/^int* lp;$/;"	v
+lp	segtreetemp.cpp	/^int* lp;$/;"	v
+lpts	nestedrcount.cpp	/^vector<int> lpts;$/;"	v
+ls	diamond2.cpp	/^int ls(int i, vector<int> d, int K) {$/;"	f
+m	C.cpp	/^int n, m;$/;"	v
+m	add_one.cpp	/^int t, m;$/;"	v
+m	bessie_shuffle.cpp	/^int n, m;$/;"	v
+m	build_gates.cpp	/^int m[5000][5000];$/;"	v
+m	building_roads.cpp	/^int m, n, c[100000];$/;"	v
+m	cheap-travel.cpp	/^int n, m, a, b;$/;"	v
+m	closest-cow-wins.cpp	/^int k, m, n;$/;"	v
+m	concerttickets.cpp	/^int n,m; multiset<int> tickets;$/;"	v
+m	connecting2barns.cpp	/^int t, n, m;$/;"	v
+m	counting_rooms.cpp	/^int g[1001][1001], n, m, ans = 0;$/;"	v
+m	cut-ribbon.cpp	/^int m = 0;$/;"	v
+m	fight_traffic.cpp	/^int n, m, a,b;$/;"	v
+m	flood_fill_temp.cpp	/^int n, m, ans = 0;$/;"	v
+m	game_routes.cpp	/^ll n, m;$/;"	v
+m	givenlensum.cpp	/^long long m, s;$/;"	v
+m	graph_no_paths.cpp	/^int n, m;$/;"	v
+m	high_tech_farm.cpp	/^int n, m;$/;"	v
+m	kefa_park.cpp	/^long long n, m;$/;"	v
+m	labby.cpp	/^int g[1001][1001], n, m;$/;"	v
+m	labrynth.cpp	/^int n, m, sX, sY, lft, rght;$/;"	v
+m	lawn_tracks.cpp	/^int n,m;$/;"	v
+m	meeting.cpp	/^int n, m;$/;"	v
+m	meeting_socho.cpp	/^int n, m, x;$/;"	v
+m	min_dist.cpp	/^int n, m;$/;"	v
+m	monsters.cpp	/^int n, m, lab[SIZE][SIZE];$/;"	v
+m	pails_silver.cpp	/^int x, y, k, m, ans = 2000000000;$/;"	v
+m	pattern_matching.cpp	/^int m, n;$/;"	v
+m	quantum_superpos.cpp	/^int n[2], m[2];$/;"	v
+m	solve_maze.cpp	/^int gcount = 0, n, m;$/;"	v
+m	topo_sort.cpp	/^int n, m;$/;"	v
+m	wordcombo-struct.cpp	/^const int m = 1e9 + 7; \/\/1000000007;$/;"	v
+m	wordcombo.cpp	/^const int m = 1e9 + 7; \/\/1000000007;$/;"	v
+m	wormhole-sort.cpp	/^int n, m;$/;"	v
+main	01knapsack.cpp	/^int main() {$/;"	f
+main	1472g.cpp	/^signed main() {$/;"	f
+main	2022dec3.cpp	/^int main() {$/;"	f
+main	2long.cpp	/^int main() {$/;"	f
+main	2sets2.cpp	/^int main() {$/;"	f
+main	3sum.cpp	/^int main() {$/;"	f
+main	Anew.cpp	/^int main() {$/;"	f
+main	B.cpp	/^int main() {$/;"	f
+main	C.cpp	/^int main() {$/;"	f
+main	D.cpp	/^int main() {$/;"	f
+main	E.cpp	/^int main() {$/;"	f
+main	Ex.cpp	/^int main() {$/;"	f
+main	F.cpp	/^int main() {$/;"	f
+main	G.cpp	/^int main() {$/;"	f
+main	abc.cpp	/^int main() {$/;"	f
+main	ac.cpp	/^int main() {$/;"	f
+main	acsl09.cpp	/^int main() {$/;"	f
+main	ad_xcamp.cpp	/^int main() {$/;"	f
+main	add_one.cpp	/^signed main() {$/;"	f
+main	addition.cpp	/^int main() {$/;"	f
+main	alex_prog.cpp	/^int main() {$/;"	f
+main	amongus2.cpp	/^int main() {$/;"	f
+main	angry.cpp	/^int main() {$/;"	f
+main	angry_sk.cpp	/^int main() {$/;"	f
+main	angrys.cpp	/^int main() {$/;"	f
+main	apartments.cpp	/^int main() {$/;"	f
+main	apple_tree.cpp	/^signed main() {$/;"	f
+main	applediv.cpp	/^int main() {$/;"	f
+main	array.cpp	/^int main() {$/;"	f
+main	array_desc.cpp	/^int main() {$/;"	f
+main	array_game.cpp	/^signed main() {$/;"	f
+main	arraydiv.cpp	/^int main() {$/;"	f
+main	arraysvideo.cpp	/^int main() {$/;"	f
+main	arraysvideo2.cpp	/^int main() {$/;"	f
+main	art.cpp	/^int main() {$/;"	f
+main	attedance.cpp	/^signed main () {$/;"	f
+main	avg_subarrays.cpp	/^int main() {$/;"	f
+main	backforth.cpp	/^int main() {$/;"	f
+main	badmilk.cpp	/^int main() {$/;"	f
+main	balancing.cpp	/^int main() {$/;"	f
+main	barn1.cpp	/^int main() {$/;"	f
+main	barn_tree.cpp	/^int main() {$/;"	f
+main	bb2.cpp	/^int main() {$/;"	f
+main	bcs.cpp	/^int main() {$/;"	f
+main	beads.cpp	/^int main() {$/;"	f
+main	beadsans.cpp	/^int main() {$/;"	f
+main	beadsreal.cpp	/^int main() {$/;"	f
+main	beadsv3.cpp	/^int main() {$/;"	f
+main	bessie_breeds.cpp	/^signed main() {$/;"	f
+main	bessie_goes_moo.cpp	/^int main() {$/;"	f
+main	bessie_shuffle.cpp	/^int main() {$/;"	f
+main	bfs_temp.cpp	/^int main() {$/;"	f
+main	binomial_coeffs.cpp	/^int main() {$/;"	f
+main	birthday.cpp	/^int main() {$/;"	f
+main	bitstr.cpp	/^int main() {$/;"	f
+main	blah.cpp	/^int main() {$/;"	f
+main	blist.cpp	/^int main() {$/;"	f
+main	blocks.cpp	/^int main() {$/;"	f
+main	boilerplate.cpp	/^int main() {$/;"	f
+main	books.cpp	/^int main() {$/;"	f
+main	boris_cut.cpp	/^int main() {$/;"	f
+main	bp20.cpp	/^int main() {$/;"	f
+main	breedflip.cpp	/^int main() {$/;"	f
+main	build_gates.cpp	/^int main() {$/;"	f
+main	building_roads.cpp	/^int main() {$/;"	f
+main	building_teams.cpp	/^int main()$/;"	f
+main	calvins_game.cpp	/^int main() {$/;"	f
+main	candy_lottery.cpp	/^int main() {$/;"	f
+main	carriage_arr.cpp	/^int main() {$/;"	f
+main	cascading_sums.cpp	/^signed main() {$/;"	f
+main	catch_me.cpp	/^signed main() {$/;"	f
+main	caw_uni.cpp	/^int main() {$/;"	f
+main	cbarn.cpp	/^int main() {$/;"	f
+main	cc.cpp	/^int main() {$/;"	f
+main	ccs.cpp	/^int main() {$/;"	f
+main	ccski.cpp	/^int main() {$/;"	f
+main	cellular_net.cpp	/^int main() {$/;"	f
+main	censor_words.cpp	/^int main() {$/;"	f
+main	censoring.cpp	/^int main() {$/;"	f
+main	censoring_kmp.cpp	/^int main() {$/;"	f
+main	cereal.cpp	/^int main() {$/;"	f
+main	cf.cpp	/^int main() {$/;"	f
+main	char_issues.cpp	/^int main() {$/;"	f
+main	cheap-travel.cpp	/^int main() {$/;"	f
+main	chessbandq.cpp	/^int main() {$/;"	f
+main	choose_temp.cpp	/^signed main() {$/;"	f
+main	circlecross.cpp	/^int main() {$/;"	f
+main	circular_barn.cpp	/^int main() {$/;"	f
+main	classroom_cheat.cpp	/^signed main() {$/;"	f
+main	close_tuples.cpp	/^int main() {$/;"	f
+main	closest-cow-wins.cpp	/^int main() {$/;"	f
+main	closing.cpp	/^int main() {$/;"	f
+main	closing2.cpp	/^int main() {$/;"	f
+main	clumsy-cows.cpp	/^int main() {$/;"	f
+main	coin_combos1.cpp	/^int main() {$/;"	f
+main	coin_combos2.cpp	/^signed main() {$/;"	f
+main	coinpiles.cpp	/^int main() {$/;"	f
+main	collectingnums.cpp	/^int main() {$/;"	f
+main	collectingnums2.cpp	/^int main() {$/;"	f
+main	collectingnums2ans.cpp	/^int main(){$/;"	f
+main	combo.cpp	/^int main() {$/;"	f
+main	common_divisors.cpp	/^int main() {$/;"	f
+main	companyqs.cpp	/^int main() {$/;"	f
+main	concerttickets.cpp	/^int main() {$/;"	f
+main	connect.cpp	/^int main() {$/;"	f
+main	connecting2barns.cpp	/^int main() {$/;"	f
+main	convention.cpp	/^int main() {$/;"	f
+main	convention2.cpp	/^int main() {$/;"	f
+main	convoluted-intervals.cpp	/^int main() {$/;"	f
+main	correct_pl.cpp	/^int main() {$/;"	f
+main	cosmic_reactions.cpp	/^signed main() {$/;"	f
+main	count_digi_sum.cpp	/^signed main() {$/;"	f
+main	count_paths.cpp	/^signed main() {$/;"	f
+main	countdiv.cpp	/^int main() {$/;"	f
+main	counting_haybales.cpp	/^int main() {$/;"	f
+main	counting_rooms.cpp	/^int main() {$/;"	f
+main	counting_sub.cpp	/^int main() {$/;"	f
+main	counting_towers.cpp	/^signed main() {$/;"	f
+main	cow.cpp	/^int main() {$/;"	f
+main	cow_dance_show.cpp	/^int main () {$/;"	f
+main	cow_frisbee.cpp	/^int main() {$/;"	f
+main	cow_frisbee_ll.cpp	/^int main() {$/;"	f
+main	cow_hopscotch.cpp	/^int main() {$/;"	f
+main	cow_marriage.cpp	/^signed main() {$/;"	f
+main	cowdance.cpp	/^int main() {$/;"	f
+main	cownomics.cpp	/^int main() {$/;"	f
+main	cowntagion.cpp	/^int main() {$/;"	f
+main	cowphabet.cpp	/^int main() {$/;"	f
+main	cowqueue.cpp	/^int main() {$/;"	f
+main	cowroute.cpp	/^int main() {$/;"	f
+main	cowsignal.cpp	/^int main() {$/;"	f
+main	cowtip.cpp	/^int main() {$/;"	f
+main	createstrs.cpp	/^int main() {$/;"	f
+main	creating_str2.cpp	/^signed main() {$/;"	f
+main	crypt1.cpp	/^int main() {$/;"	f
+main	cut-ribbon.cpp	/^int main() {$/;"	f
+main	cyclic_comp.cpp	/^int main() {$/;"	f
+main	daisychains.cpp	/^int main() {$/;"	f
+main	dance_moovesS.cpp	/^signed main() {$/;"	f
+main	dance_show_shitty.cpp	/^int main () {$/;"	f
+main	day2A.cpp	/^int main(){$/;"	f
+main	day2E.cpp	/^int main(){$/;"	f
+main	day2F.cpp	/^int main() {$/;"	f
+main	day2c.cpp	/^int main() {$/;"	f
+main	day3b.cpp	/^int main() {$/;"	f
+main	day3c.cpp	/^int main(){$/;"	f
+main	day3e.cpp	/^int main() {$/;"	f
+main	day3g.cpp	/^signed main() {$/;"	f
+main	ddawg.cpp	/^signed main() {$/;"	f
+main	defaulttemp.cpp	/^int main() {$/;"	f
+main	diamond.cpp	/^int main() {$/;"	f
+main	diamond2.cpp	/^int main() {$/;"	f
+main	diamond3.cpp	/^int main() {$/;"	f
+main	diamond_collecter.cpp	/^int main() {$/;"	f
+main	dice_combos.cpp	/^int main() {$/;"	f
+main	dice_prob.cpp	/^signed main() {$/;"	f
+main	dijktra_temp.cpp	/^int main() {$/;"	f
+main	dishwashing.cpp	/^int main() {$/;"	f
+main	dist_in_tree.cpp	/^signed main() {$/;"	f
+main	distinctnumbers.cpp	/^int main() {$/;"	f
+main	div7.cpp	/^int main() {$/;"	f
+main	div7i2.cpp	/^int main() {$/;"	f
+main	dm_tester.cpp	/^signed main() {$/;"	f
+main	dmperm.cpp	/^signed main() {$/;"	f
+main	dsu_temp.cpp	/^signed main() {$/;"	f
+main	dualpal.cpp	/^int main() {$/;"	f
+main	dumb-game.cpp	/^int main()$/;"	f
+main	editdist.cpp	/^int main() {$/;"	f
+main	editdist_bu.cpp	/^int main() {$/;"	f
+main	eelcomp.cpp	/^int main() {$/;"	f
+main	eh.cpp	/^int main() {$/;"	f
+main	elevatorrides.cpp	/^int main() {$/;"	f
+main	email_filing.cpp	/^signed main() {$/;"	f
+main	emop.cpp	/^int main() {$/;"	f
+main	ex2.cpp	/^int main(){$/;"	f
+main	expo2.cpp	/^int main() {$/;"	f
+main	exponentiation.cpp	/^int main(){$/;"	f
+main	factory.cpp	/^int main() {$/;"	f
+main	factorymachines.cpp	/^int main() {$/;"	f
+main	farm_triangles.cpp	/^signed main() {$/;"	f
+main	fenceplan.cpp	/^int main() {$/;"	f
+main	ferriswheel.cpp	/^int main() {$/;"	f
+main	fib-bottomup.cpp	/^int main() {$/;"	f
+main	fib-memoize.cpp	/^int main() {$/;"	f
+main	fib.cpp	/^int main() {$/;"	f
+main	field_day.cpp	/^int main() {$/;"	f
+main	fight_traffic.cpp	/^int main() {$/;"	f
+main	fileiotemp.cpp	/^int main() {$/;"	f
+main	finding_borders.cpp	/^int main() {$/;"	f
+main	finding_patterns.cpp	/^int main() {$/;"	f
+main	finding_periods.cpp	/^int main() {$/;"	f
+main	fj_pics.cpp	/^signed main() {$/;"	f
+main	flood_fill_temp.cpp	/^int main() {$/;"	f
+main	following_directions.cpp	/^int main() {$/;"	f
+main	foo.cpp	/^int main() {$/;"	f
+main	forest_queries.cpp	/^int main() {$/;"	f
+main	fractorial.cpp	/^int main() {$/;"	f
+main	friday.cpp	/^int main()$/;"	f
+main	game_life.cpp	/^signed main() {$/;"	f
+main	game_on_arr.cpp	/^signed main() {$/;"	f
+main	game_routes.cpp	/^signed main() {$/;"	f
+main	gates.cpp	/^int main() {$/;"	f
+main	gen_paths.cpp	/^int main() {$/;"	f
+main	gift1.cpp	/^int main() {$/;"	f
+main	givenlensum.cpp	/^int main() {$/;"	f
+main	gl_tester.cpp	/^signed main() {$/;"	f
+main	good_subarrays.cpp	/^int main() {$/;"	f
+main	graph_no_paths.cpp	/^int main() {$/;"	f
+main	graycode.cpp	/^int main() {$/;"	f
+main	grid_path_itr.cpp	/^int main() {$/;"	f
+main	grid_paths.cpp	/^int main() {$/;"	f
+main	gridpaths.cpp	/^int main() {$/;"	f
+main	guess.cpp	/^int main() {$/;"	f
+main	gymnastics.cpp	/^int main() {$/;"	f
+main	hanoi.cpp	/^int main() {$/;"	f
+main	hash_ll.cpp	/^int main() {$/;"	f
+main	hash_table.cpp	/^int main() {$/;"	f
+main	health_insp.cpp	/^int main() {$/;"	f
+main	hello.cpp	/^int main(void) {$/;"	f
+main	help_yourself.cpp	/^int main() {$/;"	f
+main	herding.cpp	/^int main() {$/;"	f
+main	high_card_gold.cpp	/^int main() {$/;"	f
+main	high_tech_farm.cpp	/^int main() {$/;"	f
+main	highcard.cpp	/^int main() {$/;"	f
+main	hoof_paper_scissors.cpp	/^signed main() {$/;"	f
+main	hoofball.cpp	/^int main() {$/;"	f
+main	hopscotch.cpp	/^int main() {$/;"	f
+main	hps.cpp	/^int main() {$/;"	f
+main	increasing_arr.cpp	/^int main() {$/;"	f
+main	increasingarrray.cpp	/^int main() {$/;"	f
+main	inoi1402.cpp	/^signed main() {$/;"	f
+main	inoi2002.cpp	/^signed main() {$/;"	f
+main	intersorting.cpp	/^int main() {$/;"	f
+main	iqtest.cpp	/^int main() {$/;"	f
+main	josephus.cpp	/^int main() {$/;"	f
+main	js.cpp	/^int main() {$/;"	f
+main	kefa_park.cpp	/^signed main() {$/;"	f
+main	kmp.cpp	/^int main() {$/;"	f
+main	kuroni.cpp	/^signed main() {$/;"	f
+main	labby.cpp	/^int main() {$/;"	f
+main	labrynth.cpp	/^int main() {$/;"	f
+main	last_resort.cpp	/^signed main() {$/;"	f
+main	lawn_tracks.cpp	/^signed main() {$/;"	f
+main	lazy.cpp	/^int main() {$/;"	f
+main	leftout.cpp	/^int main() {$/;"	f
+main	lemonade.cpp	/^int main() {$/;"	f
+main	library_pics.cpp	/^int main() {$/;"	f
+main	lifeguards.cpp	/^int main() {$/;"	f
+main	lifeguards2.cpp	/^int main() {$/;"	f
+main	lightson.cpp	/^int main() {$/;"	f
+main	line_seg_intersection.cpp	/^int main() {$/;"	f
+main	lineup.cpp	/^int main() {$/;"	f
+main	loan_replacement.cpp	/^int main() {$/;"	f
+main	long_path.cpp	/^signed main() {$/;"	f
+main	longest-increasing-subsequence.cpp	/^int main() {$/;"	f
+main	lp.cpp	/^int main() {$/;"	f
+main	lp2.cpp	/^int main() {$/;"	f
+main	lp3.cpp	/^int main() {$/;"	f
+main	lp4.cpp	/^int main() {$/;"	f
+main	luke_computer.cpp	/^int main() {$/;"	f
+main	mahmoud.cpp	/^int main() {$/;"	f
+main	marathon.cpp	/^int main() {$/;"	f
+main	matching.cpp	/^signed main() {$/;"	f
+main	max_med.cpp	/^signed main() {$/;"	f
+main	max_median.cpp	/^int main() {$/;"	f
+main	max_sum_prod.cpp	/^signed main() {$/;"	f
+main	maximal_and.cpp	/^int main(){$/;"	f
+main	maxsubarraysum.cpp	/^int main() {$/;"	f
+main	maxsubarry2.cpp	/^int main() {$/;"	f
+main	me_bipartite.cpp	/^int main() {$/;"	f
+main	measurement.cpp	/^int main() {$/;"	f
+main	meeting.cpp	/^int main() {$/;"	f
+main	meeting_socho.cpp	/^signed main() {$/;"	f
+main	meetmid.cpp	/^int main() {$/;"	f
+main	meetmidbad.cpp	/^int main() {$/;"	f
+main	merge_fruit.cpp	/^int main() {$/;"	f
+main	milk.cpp	/^int main() {$/;"	f
+main	milk2.cpp	/^int main() {$/;"	f
+main	milk_sum.cpp	/^int main() {$/;"	f
+main	milkorder.cpp	/^int main() {$/;"	f
+main	milkvisits.cpp	/^int main() {$/;"	f
+main	min_coins.cpp	/^signed main() {$/;"	f
+main	min_cost.cpp	/^int main(){$/;"	f
+main	min_dist.cpp	/^int main() {$/;"	f
+main	min_heap.cpp	/^int main() {$/;"	f
+main	min_spanning_tree_temp.cpp	/^int main() {$/;"	f
+main	mismatched_mat.cpp	/^signed main() {$/;"	f
+main	missing_num.cpp	/^signed main() {$/;"	f
+main	missingcoinsum.cpp	/^int main(){$/;"	f
+main	missingnum.cpp	/^int main() {$/;"	f
+main	mod.cpp	/^int main() {$/;"	f
+main	mod_inverse_temp.cpp	/^signed main() {$/;"	f
+main	modern_art2.cpp	/^signed main() {$/;"	f
+main	moneysums.cpp	/^int main() {$/;"	f
+main	monsters.cpp	/^int main()$/;"	f
+main	moo_particle.cpp	/^int main() {$/;"	f
+main	moobuzz.cpp	/^int main() {$/;"	f
+main	moocast.cpp	/^int main() {$/;"	f
+main	moviefestival.cpp	/^int main() {$/;"	f
+main	mowing.cpp	/^int main() {$/;"	f
+main	ms.cpp	/^int main() {$/;"	f
+main	msched.cpp	/^int main() {$/;"	f
+main	msg_route.cpp	/^int main() {$/;"	f
+main	namenum.cpp	/^int main() {$/;"	f
+main	nearest_opp_parity.cpp	/^int main() {$/;"	f
+main	nearest_smaller_val.cpp	/^int main() {$/;"	f
+main	nestedrc.cpp	/^int main() {$/;"	f
+main	nestedrcount.cpp	/^int main() {$/;"	f
+main	new_year_perm.cpp	/^signed main() {$/;"	f
+main	next_greater_stack.cpp	/^int main() {$/;"	f
+main	nother_tree.cpp	/^int main() {$/;"	f
+main	notlast.cpp	/^int main() {$/;"	f
+main	nssol.cpp	/^int main()$/;"	f
+main	ntp.cpp	/^int main() {$/;"	f
+main	numspiral.cpp	/^int main() {$/;"	f
+main	optimal_hall.cpp	/^signed main() {$/;"	f
+main	orac_lcm.cpp	/^int main() {$/;"	f
+main	orderedsettemp.cpp	/^int main() {$/;"	f
+main	orz_sub.cpp	/^int main() {$/;"	f
+main	outofplace.cpp	/^int main() {$/;"	f
+main	pails.cpp	/^int main() {$/;"	f
+main	pails_silver.cpp	/^int main() {$/;"	f
+main	paint.cpp	/^int main() {$/;"	f
+main	paintbarn.cpp	/^int main() {$/;"	f
+main	painting_houses.cpp	/^signed main() {$/;"	f
+main	pair_p.cpp	/^int main() {$/;"	f
+main	pairs_of_segs.cpp	/^int main() {$/;"	f
+main	pairup.cpp	/^int main() {$/;"	f
+main	palreorder.cpp	/^int main() {$/;"	f
+main	palsquare.cpp	/^int main() {$/;"	f
+main	pandamonium.cpp	/^int main() {$/;"	f
+main	par_problem3.cpp	/^int main() {$/;"	f
+main	parade.cpp	/^signed main() {$/;"	f
+main	party_wo_boss.cpp	/^int main() {$/;"	f
+main	path_prefixes.cpp	/^int main() {$/;"	f
+main	pattern_matching.cpp	/^signed main() {$/;"	f
+main	perimeter.cpp	/^int main() {$/;"	f
+main	perms.cpp	/^int main() {$/;"	f
+main	petr_lock.cpp	/^signed main() {$/;"	f
+main	placing_rooks.cpp	/^int main()$/;"	f
+main	planting.cpp	/^int main() {$/;"	f
+main	playlist.cpp	/^int main() {$/;"	f
+main	plt.cpp	/^int main() {$/;"	f
+main	political_parties.cpp	/^signed main() {$/;"	f
+main	potw1p1.cpp	/^int main() {$/;"	f
+main	potw1p2.cpp	/^signed main() {$/;"	f
+main	potw2p1.cpp	/^int main() {$/;"	f
+main	potw3p2.cpp	/^int main() {$/;"	f
+main	prime_multiples.cpp	/^signed main() {$/;"	f
+main	prog_teams.cpp	/^int main() {$/;"	f
+main	promote.cpp	/^int main() {$/;"	f
+main	pus.cpp	/^int main() {$/;"	f
+main	quantum_superpos.cpp	/^int main() {$/;"	f
+main	queue.cpp	/^int main() {$/;"	f
+main	race.cpp	/^int main() {$/;"	f
+main	range_recontruction.cpp	/^int main() {$/;"	f
+main	ranom_nums.cpp	/^int main() {$/;"	f
+main	readingbooks.cpp	/^int main() {$/;"	f
+main	rect_pasture.cpp	/^signed main() {$/;"	f
+main	rectcut.cpp	/^int main() {$/;"	f
+main	registrationsystem.cpp	/^int main() {$/;"	f
+main	rem_digits.cpp	/^int main() {$/;"	f
+main	remgametrial.cpp	/^int main() {$/;"	f
+main	repetitions.cpp	/^int main() {$/;"	f
+main	restraurantcustomers.cpp	/^int main() {$/;"	f
+main	return_school.cpp	/^int main() {$/;"	f
+main	return_socho.cpp	/^int main() {$/;"	f
+main	revegetate.cpp	/^int main() {$/;"	f
+main	reversal_game.cpp	/^int main() {$/;"	f
+main	ride.cpp	/^int main() {$/;"	f
+main	riding_bicolor.cpp	/^int main() {$/;"	f
+main	roadtrip.cpp	/^signed main() {$/;"	f
+main	roomallo.cpp	/^int main() {$/;"	f
+main	round_trip.cpp	/^int main()$/;"	f
+main	rps.cpp	/^int main() {$/;"	f
+main	running_mi.cpp	/^signed main() {$/;"	f
+main	rut.cpp	/^int main() {$/;"	f
+main	scf.cpp	/^int main() {$/;"	f
+main	scfa.cpp	/^int main() {$/;"	f
+main	scs.cpp	/^int main() {$/;"	f
+main	searching_for_soulmates.cpp	/^int main() {$/;"	f
+main	segtree.cpp	/^int main() {$/;"	f
+main	segtree_neel.cpp	/^int main() {$/;"	f
+main	segtreetemp.cpp	/^signed main() {$/;"	f
+main	segtreevid.cpp	/^int main() {$/;"	f
+main	selecting_nodes.cpp	/^signed main() {$/;"	f
+main	sequence_land.cpp	/^signed main() {$/;"	f
+main	shaking_shack.cpp	/^signed main() {$/;"	f
+main	shortestsubseq.cpp	/^int main() {$/;"	f
+main	sjge.cpp	/^int main() {$/;"	f
+main	sk.cpp	/^int main() {$/;"	f
+main	sliding_cost.cpp	/^int main() {$/;"	f
+main	sliding_median.cpp	/^int main() {$/;"	f
+main	social_net.cpp	/^int main() {$/;"	f
+main	solve_maze.cpp	/^int main() {$/;"	f
+main	souvenir_prices.cpp	/^signed main() {$/;"	f
+main	speeding.cpp	/^int main() {$/;"	f
+main	square.cpp	/^int main() {$/;"	f
+main	srg.cpp	/^int main() {$/;"	f
+main	sri.cpp	/^int main() {$/;"	f
+main	sss.cpp	/^int main() {$/;"	f
+main	stack.cpp	/^int main() {$/;"	f
+main	sticklens.cpp	/^int main(){$/;"	f
+main	str_diff.cpp	/^signed main() {$/;"	f
+main	str_matching.cpp	/^int main() {$/;"	f
+main	str_matching_kmp.cpp	/^int main() {$/;"	f
+main	stuck_inna_rut.cpp	/^int main() {$/;"	f
+main	studying_algos.cpp	/^int main() {$/;"	f
+main	subarraydiv.cpp	/^int main() {$/;"	f
+main	subarraysums1.cpp	/^int main() {$/;"	f
+main	subarrdistvals.cpp	/^int main() {$/;"	f
+main	subordinates.cpp	/^int main() {$/;"	f
+main	sum.cpp	/^int main() {$/;"	f
+main	sumarrdiskvals2.cpp	/^int main() {$/;"	f
+main	sumof2vals.cpp	/^int main() {$/;"	f
+main	sumof3.cpp	/^int main() {$/;"	f
+main	sumof4.cpp	/^int main() {$/;"	f
+main	superbull.cpp	/^int main() {$/;"	f
+main	swap.cpp	/^int main() {$/;"	f
+main	t-primes.cpp	/^int main() {$/;"	f
+main	taming.cpp	/^int main() {$/;"	f
+main	tasksmachines.cpp	/^int main() {$/;"	f
+main	team_work.cpp	/^signed main() {$/;"	f
+main	tele_call.cpp	/^int main()$/;"	f
+main	tenzing_books.cpp	/^int main() {$/;"	f
+main	the_party_sweets.cpp	/^int main() {$/;"	f
+main	theyre_everywhere.cpp	/^int main() {$/;"	f
+main	time_mooney.cpp	/^int main() {$/;"	f
+main	tinoi17a.cpp	/^signed main() {$/;"	f
+main	tinoi17b.cpp	/^long long main() {$/;"	f
+main	tmbot.cpp	/^int main(int argc, char* argv[]) {$/;"	f
+main	topo_sort.cpp	/^signed main() {$/;"	f
+main	towers.cpp	/^int main() {$/;"	f
+main	tracing.cpp	/^int main() {$/;"	f
+main	tracing1.cpp	/^int main() {$/;"	f
+main	traffic.cpp	/^int main() {$/;"	f
+main	trafficlights.cpp	/^int main() {$/;"	f
+main	trailing0s.cpp	/^int main() {$/;"	f
+main	transform.cpp	/^int main() {$/;"	f
+main	treasure_hunt.cpp	/^int main() {$/;"	f
+main	tree_distances.cpp	/^int main() {$/;"	f
+main	treed.cpp	/^int main() {$/;"	f
+main	treematching.cpp	/^int main() {$/;"	f
+main	treematchingbad.cpp	/^int main() {$/;"	f
+main	triangles.cpp	/^int main() {$/;"	f
+main	triathalon.cpp	/^int main() {$/;"	f
+main	tttt.cpp	/^int main() {$/;"	f
+main	tutor.cpp	/^int main() {$/;"	f
+main	two_knights.cpp	/^int main() {$/;"	f
+main	two_sets2.cpp	/^int main() {$/;"	f
+main	twopaths.cpp	/^signed main() {$/;"	f
+main	twosets.cpp	/^int main() {$/;"	f
+main	txter.cpp	/^int main() {$/;"	f
+main	urban_skate.cpp	/^int main() {$/;"	f
+main	usb_ps.cpp	/^int main() {$/;"	f
+main	uso221.cpp	/^int main() {$/;"	f
+main	uso222.cpp	/^int main() {$/;"	f
+main	vacation.cpp	/^signed main() {$/;"	f
+main	vacation_planning.cpp	/^int main() {$/;"	f
+main	vanyaandlanterns.cpp	/^int main() {$/;"	f
+main	vinland_saga.cpp	/^signed main() {$/;"	f
+main	warshall_temp.cpp	/^int main() {$/;"	f
+main	watermellon.cpp	/^int main() {$/;"	f
+main	wealth_disparity.cpp	/^signed main() {$/;"	f
+main	weirdalgo.cpp	/^int main() {$/;"	f
+main	welatcoder.cpp	/^int main() {$/;"	f
+main	wh.cpp	/^int main() {$/;"	f
+main	whereami.cpp	/^int main() {$/;"	f
+main	whitesheet.cpp	/^int main() {$/;"	f
+main	why_cross2.cpp	/^int main() {$/;"	f
+main	wifi.cpp	/^int main() {$/;"	f
+main	wordcombo-struct.cpp	/^int main() {$/;"	f
+main	wordcombo.cpp	/^int main() {$/;"	f
+main	wormhole-sort.cpp	/^int main() {$/;"	f
+main	wormhole.cpp	/^int main() {$/;"	f
+main	wormsort.cpp	/^int main() {$/;"	f
+main	xmas_party.cpp	/^int main() {$/;"	f
+main	xor.cpp	/^int main() {$/;"	f
+main	xor_game.cpp	/^int main() {$/;"	f
+main	yc.cpp	/^int main() {$/;"	f
+main	yet_nother_tourn.cpp	/^int main() {$/;"	f
+make_num	dice_prob.cpp	/^int make_num(int n, int level) {$/;"	f
+mast	combo.cpp	/^int fj[3], mast[3], N;$/;"	v
+maxN	collectingnums2ans.cpp	/^const int maxN = 2e5+5;$/;"	v
+maxN	missingcoinsum.cpp	/^const int maxN = 2e5;$/;"	v
+maxN	nestedrcount.cpp	/^const int maxN = 200000;$/;"	v
+maxN	sticklens.cpp	/^const int maxN = 2e5;$/;"	v
+maxX	build_gates.cpp	/^int maxX = 0, minX = limit;$/;"	v
+maxY	build_gates.cpp	/^int maxY = 0, minY = limit;$/;"	v
+max_cow	balancing.cpp	/^int max_cow(vector<pair<int, int> >& c, int x, int y) {$/;"	f
+max_interval	closest-cow-wins.cpp	/^ll max_interval(int s, int e) {$/;"	f
+maxc	inoi1402.cpp	/^const int maxc = 231;$/;"	v
+maxc	measurement.cpp	/^vector<int> maxc(int l[3]) {$/;"	f
+maxc	modern_art2.cpp	/^int N, minc[MAXN], maxc[MAXN];$/;"	v
+maxn	choose_temp.cpp	/^const long long maxn = 1e6+1;$/;"	v
+maxn	farm_triangles.cpp	/^const long long maxn = 1e6+3;$/;"	v
+maxn	hps.cpp	/^int maxn(int a, int b, int c) {$/;"	f
+maxn	potw1p2.cpp	/^const long long maxn = 1e6+1;$/;"	v
+maxx	stuck_inna_rut.cpp	/^int n, ans[1000], minx = INT8_MAX, miny = INT8_MAX, maxx, maxy;$/;"	v
+maxy	stuck_inna_rut.cpp	/^int n, ans[1000], minx = INT8_MAX, miny = INT8_MAX, maxx, maxy;$/;"	v
+maze	solve_maze.cpp	/^char maze[55][55];$/;"	v
+mb	moobuzz.cpp	/^int mb[8] = {1, 2, 4, 7, 8, 11, 13, 14};$/;"	v
+median	sticklens.cpp	/^ll median, sum;$/;"	v
+memeset	long_path.cpp	/^#define memeset /;"	d	file:
+memo	01knapsack.cpp	/^int n, x, memo[1001][100001];$/;"	v
+memo	array_desc.cpp	/^map<ll, int> memo;$/;"	v
+memo	calvins_game.cpp	/^int n, k, memo[2000000], val[2000000], memorev[2000000];$/;"	v
+memo	char_issues.cpp	/^long long memo[1001][1001];$/;"	v
+memo	counting_sub.cpp	/^int memo[200001];$/;"	v
+memo	cow_hopscotch.cpp	/^int grid[100][100], r, c, k, memo[100][100];$/;"	v
+memo	day3e.cpp	/^map<int, int> memo[2];$/;"	v
+memo	dice_prob.cpp	/^long long memo[MAXN], n, a, b;$/;"	v
+memo	editdist.cpp	/^map<pair<int, int>, int> memo;$/;"	v
+memo	editdist_bu.cpp	/^int memo[5000][5000];$/;"	v
+memo	elevatorrides.cpp	/^pair<int, int> memo[1<<20];$/;"	v
+memo	field_day.cpp	/^int memo[2000001];$/;"	v
+memo	following_directions.cpp	/^int N, Q, g[1501][1501], memo[1501][1501];$/;"	v
+memo	game_routes.cpp	/^ll memo[MAX_MEMO];$/;"	v
+memo	grid_path_itr.cpp	/^int memo[1000][1000], n;$/;"	v
+memo	grid_paths.cpp	/^int memo[1000][1000], n;$/;"	v
+memo	pails_silver.cpp	/^bool memo[200][200][200];$/;"	v
+memo	rectcut.cpp	/^int a, b, memo[501][501];$/;"	v
+memo	rem_digits.cpp	/^int memo[1000001];$/;"	v
+memo	treematching.cpp	/^pair<int, int> memo[200001];$/;"	v
+memo	wordcombo-struct.cpp	/^int memo[5001];$/;"	v
+memo	wordcombo.cpp	/^int memo[5001];$/;"	v
+memo0	party_wo_boss.cpp	/^map<int, int> memo0;$/;"	v
+memo1	party_wo_boss.cpp	/^map<int, int> memo1;$/;"	v
+memorev	calvins_game.cpp	/^int n, k, memo[2000000], val[2000000], memorev[2000000];$/;"	v
+merge	array_game.cpp	/^int merge(int* a, int left, int mid, int right, int s) {$/;"	f
+merge	wormhole-sort.cpp	/^void merge(int a, int b) {$/;"	f
+merge_lists	connecting2barns.cpp	/^vector<pair<int, int>> merge_lists(vector<int> l1, vector<int> l2) {$/;"	f
+milk_values	milk_sum.cpp	/^vector<long long> milk_values; \/\/ for binary search$/;"	v
+minTime	blah.cpp	/^ll minTime(ll arr[], ll n, ll m) {$/;"	f
+minX	build_gates.cpp	/^int maxX = 0, minX = limit;$/;"	v
+minY	build_gates.cpp	/^int maxY = 0, minY = limit;$/;"	v
+min_max	range_recontruction.cpp	/^pair<int, int> min_max(vector<int> v, int a, int b) {$/;"	f
+min_scc	connecting2barns.cpp	/^int min_scc(int a, int b) {$/;"	f
+min_scc	connecting2barns.cpp	/^int min_scc(int a, int b, vector<vector<int>>& l2vs) {$/;"	f
+minc	modern_art2.cpp	/^int N, minc[MAXN], maxc[MAXN];$/;"	v
+minx	stuck_inna_rut.cpp	/^int n, ans[1000], minx = INT8_MAX, miny = INT8_MAX, maxx, maxy;$/;"	v
+miny	stuck_inna_rut.cpp	/^int n, ans[1000], minx = INT8_MAX, miny = INT8_MAX, maxx, maxy;$/;"	v
+mlen	friday.cpp	/^mlen(int y, int m)$/;"	f
+mod	add_one.cpp	/^const int mod = 1e9+7;$/;"	v
+mod	array_game.cpp	/^const int mod = 1e8-3;$/;"	v
+mod	choose_temp.cpp	/^const long long mod = 1e9+7;$/;"	v
+mod	close_tuples.cpp	/^const int mod = 1000000007;$/;"	v
+mod	count_paths.cpp	/^const int mod = 1e9 +7;$/;"	v
+mod	day3e.cpp	/^const int mod = 1e9+7;$/;"	v
+mod	game_routes.cpp	/^const int mod = 1e9+7;$/;"	v
+mod	matching.cpp	/^const long long mod = 1e9 +7;$/;"	v
+mod	potw1p2.cpp	/^const long long mod = 1e9+7;$/;"	v
+mod	two_sets2.cpp	/^const int mod = 1e9+7;$/;"	v
+mod	xmas_party.cpp	/^const int mod = 1e9+7;$/;"	v
+monk	foo.cpp	/^long long monk[501][501];$/;"	v
+move	sri.cpp	/^void move(const map<pair<int64_t, int64_t>, int>& prev, map<pair<int64_t, int64_t>, int>& next) {$/;"	f
+mp	books.cpp	/^#define mp /;"	d	file:
+ms	hanoi.cpp	/^vector<pair<int, int>> ms;$/;"	v
+ms	pattern_matching.cpp	/^map<int, int> ms;$/;"	v
+mtab	friday.cpp	/^int mtab[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };$/;"	v
+mul	placing_rooks.cpp	/^int mul(int x, int y)$/;"	f
+mvtower	hanoi.cpp	/^void mvtower(int s, int d, int o, int n) {$/;"	f
+my_comp	pairup.cpp	/^bool my_comp(pair<int, int> i, pair<int, int> j) {$/;"	f
+mycomp	diamond.cpp	/^bool mycomp(pair<int,int> i, pair<int,int> j) {$/;"	f
+mycomp	diamond2.cpp	/^bool mycomp(pair<int,int> i, pair<int,int> j) {$/;"	f
+mycomp	wormsort.cpp	/^bool mycomp(vector<int> a, vector<int> b) {$/;"	f
+n	01knapsack.cpp	/^int n, x, memo[1001][100001];$/;"	v
+n	2sets2.cpp	/^int n, target;$/;"	v
+n	Anew.cpp	/^int val[100001], n, ans;$/;"	v
+n	B.cpp	/^int g, n;$/;"	v
+n	C.cpp	/^int n, m;$/;"	v
+n	add_one.cpp	/^string n;$/;"	v
+n	apple_tree.cpp	/^long long n, q;$/;"	v
+n	arraydiv.cpp	/^ll n, k;$/;"	v
+n	barn_tree.cpp	/^int val[200001], n, ans;$/;"	v
+n	bessie_shuffle.cpp	/^int n, m;$/;"	v
+n	building_roads.cpp	/^int m, n, c[100000];$/;"	v
+n	calvins_game.cpp	/^int n, k, memo[2000000], val[2000000], memorev[2000000];$/;"	v
+n	catch_me.cpp	/^long long n, e, x, k;$/;"	v
+n	char_issues.cpp	/^long long n, k, tree[1001][2], pindex[1001];$/;"	v
+n	cheap-travel.cpp	/^int n, m, a, b;$/;"	v
+n	chessbandq.cpp	/^int n = 0;$/;"	v
+n	classroom_cheat.cpp	/^int n;$/;"	v
+n	closest-cow-wins.cpp	/^int k, m, n;$/;"	v
+n	coin_combos2.cpp	/^int n, x;$/;"	v
+n	companyqs.cpp	/^int n, q;$/;"	v
+n	concerttickets.cpp	/^int n,m; multiset<int> tickets;$/;"	v
+n	connect.cpp	/^int n;$/;"	v
+n	connecting2barns.cpp	/^int t, n, m;$/;"	v
+n	countdiv.cpp	/^int n;$/;"	v
+n	counting_rooms.cpp	/^int g[1001][1001], n, m, ans = 0;$/;"	v
+n	cow.cpp	/^long long o, w, n;$/;"	v
+n	cowntagion.cpp	/^int n;$/;"	v
+n	cut-ribbon.cpp	/^int n, a, b, c;$/;"	v
+n	day2c.cpp	/^int n;$/;"	v
+n	day3b.cpp	/^int n;$/;"	v
+n	day3e.cpp	/^int n, k, d;$/;"	v
+n	diamond_collecter.cpp	/^int n, k;$/;"	v
+n	dice_prob.cpp	/^long long memo[MAXN], n, a, b;$/;"	v
+n	dishwashing.cpp	/^int n;$/;"	v
+n	dist_in_tree.cpp	/^ll n, k, ans = 0;$/;"	v
+n	elevatorrides.cpp	/^int n, x;$/;"	v
+n	factorymachines.cpp	/^ll n, t;$/;"	v
+n	fight_traffic.cpp	/^int n, m, a,b;$/;"	v
+n	finding_patterns.cpp	/^set<long long> hashes; string n; int k;$/;"	v
+n	flood_fill_temp.cpp	/^int n, m, ans = 0;$/;"	v
+n	foo.cpp	/^int n, k;$/;"	v
+n	game_routes.cpp	/^ll n, m;$/;"	v
+n	gen_paths.cpp	/^int n;\/\/nodes$/;"	v
+n	graph_no_paths.cpp	/^int n, m;$/;"	v
+n	grid_path_itr.cpp	/^int memo[1000][1000], n;$/;"	v
+n	grid_paths.cpp	/^int memo[1000][1000], n;$/;"	v
+n	hash_ll.cpp	/^	int p, n, v; \/\/ refrences are really just indecies for the list$/;"	m	struct:lli	file:
+n	high_tech_farm.cpp	/^int n, m;$/;"	v
+n	increasingarrray.cpp	/^long long n;$/;"	v
+n	kefa_park.cpp	/^long long n, m;$/;"	v
+n	labby.cpp	/^int g[1001][1001], n, m;$/;"	v
+n	labrynth.cpp	/^int n, m, sX, sY, lft, rght;$/;"	v
+n	lawn_tracks.cpp	/^int n,m;$/;"	v
+n	library_pics.cpp	/^int n;$/;"	v
+n	mahmoud.cpp	/^long long n, c1 = 0, c2 = 0;$/;"	v
+n	matching.cpp	/^long long n;$/;"	v
+n	max_med.cpp	/^long long n, k;$/;"	v
+n	max_median.cpp	/^int n, k;$/;"	v
+n	me_bipartite.cpp	/^long long n, c1 = 0, c2 = 0;$/;"	v
+n	meeting.cpp	/^int n, m;$/;"	v
+n	meeting_socho.cpp	/^int n, m, x;$/;"	v
+n	meetmid.cpp	/^long long n, x;$/;"	v
+n	meetmidbad.cpp	/^long long n, x;$/;"	v
+n	min_coins.cpp	/^int n, x;$/;"	v
+n	min_dist.cpp	/^int n, m;$/;"	v
+n	missing_num.cpp	/^int n;$/;"	v
+n	missingnum.cpp	/^long long n;$/;"	v
+n	moneysums.cpp	/^int n;$/;"	v
+n	monsters.cpp	/^int n, m, lab[SIZE][SIZE];$/;"	v
+n	msched.cpp	/^int n;$/;"	v
+n	nearest_opp_parity.cpp	/^int n;$/;"	v
+n	nestedrc.cpp	/^int n;$/;"	v
+n	nestedrcount.cpp	/^int n;$/;"	v
+n	nother_tree.cpp	/^int n, k;$/;"	v
+n	ntp.cpp	/^int n;$/;"	v
+n	orac_lcm.cpp	/^int n;$/;"	v
+n	pair_p.cpp	/^int n;$/;"	v
+n	par_problem3.cpp	/^long long n;$/;"	v
+n	parade.cpp	/^int n;$/;"	v
+n	pattern_matching.cpp	/^int m, n;$/;"	v
+n	perms.cpp	/^int n;$/;"	v
+n	political_parties.cpp	/^int n;$/;"	v
+n	quantum_superpos.cpp	/^int n[2], m[2];$/;"	v
+n	range_recontruction.cpp	/^int n, in[300][300];$/;"	v
+n	rect_pasture.cpp	/^int n;$/;"	v
+n	rem_digits.cpp	/^int n;$/;"	v
+n	remgametrial.cpp	/^int n;$/;"	v
+n	roomallo.cpp	/^int n;$/;"	v
+n	selecting_nodes.cpp	/^long long n, a, b;$/;"	v
+n	solve_maze.cpp	/^int gcount = 0, n, m;$/;"	v
+n	souvenir_prices.cpp	/^ll n;$/;"	v
+n	stuck_inna_rut.cpp	/^int n, ans[1000], minx = INT8_MAX, miny = INT8_MAX, maxx, maxy;$/;"	v
+n	sumof3.cpp	/^int n, x;$/;"	v
+n	sumof4.cpp	/^int n, x;$/;"	v
+n	team_work.cpp	/^int n;$/;"	v
+n	theyre_everywhere.cpp	/^int n;$/;"	v
+n	topo_sort.cpp	/^int n, m;$/;"	v
+n	treed.cpp	/^int n;$/;"	v
+n	treedist1.cpp	/^int n;$/;"	v
+n	treematching.cpp	/^int n;$/;"	v
+n	treematchingbad.cpp	/^int n, c = 0;$/;"	v
+n	vinland_saga.cpp	/^int n;$/;"	v
+n	wealth_disparity.cpp	/^int n;$/;"	v
+n	weirdalgo.cpp	/^long long n;$/;"	v
+n	wifi.cpp	/^int n;$/;"	v
+n	wordcombo-struct.cpp	/^int k, n;$/;"	v
+n	wordcombo.cpp	/^int k, n;$/;"	v
+n	wormhole-sort.cpp	/^int n, m;$/;"	v
+name2ser	namenum.cpp	/^string name2ser(string n) {$/;"	f
+nleafs	apple_tree.cpp	/^long long nleafs[2000010];$/;"	v
+nlte	convention2.cpp	/^int nlte(int atsi, int curt) {$/;"	f
+nm	hanoi.cpp	/^int nm = 0;$/;"	v
+none	traffic.cpp	/^void none(int lr, int ur, int &fl, int &fu) {$/;"	f
+ns	B.cpp	/^vector<pair<ll, ii>> ns;$/;"	v
+ns	dishwashing.cpp	/^int base[MAXN], ns = 0;$/;"	v
+nt	rut.cpp	/^int nt(vector<tuple<int, int, char>> &c2i, int c, int N) {$/;"	f
+num	birthday.cpp	/^int p, c, num;$/;"	v
+num_explosions	angry_sk.cpp	/^int num_explosions(vector<int>& bale_pos, int start_bale)$/;"	f
+o	cow.cpp	/^long long o, w, n;$/;"	v
+odd	nearest_opp_parity.cpp	/^vector<int> arr, even, odd;$/;"	v
+on_seg	line_seg_intersection.cpp	/^bool on_seg(ii a, ii b, ii c) {$/;"	f
+onr	traffic.cpp	/^void onr(int lr, int ur, int &fl, int &fu) {$/;"	f
+operator ()	parade.cpp	/^    bool operator()(array<int,3> a,array<int,3> b){$/;"	f	struct:Compare
+ordered_set	factorymachines.cpp	/^typedef tree<int, null_type, less<int>, rb_tree_tag, tree_order_statistics_node_update> ordered_set;$/;"	t	file:
+ordered_set	nestedrcount.cpp	/^    ordered_set;$/;"	t	file:
+ordered_set	orderedsettemp.cpp	/^typedef tree<int, null_type, less<int>, rb_tree_tag, tree_order_statistics_node_update> ordered_set;$/;"	t	file:
+ordered_set	segtree.cpp	/^typedef tree<int, null_type, less<int>, rb_tree_tag, tree_order_statistics_node_update> ordered_set;$/;"	t	file:
+orient	line_seg_intersection.cpp	/^int orient(ii a, ii b, ii c) {$/;"	f
+oset	urban_skate.cpp	/^typedef tree<int, null_type, less<int>, rb_tree_tag, tree_order_statistics_node_update> oset;$/;"	t	file:
+outflow	traffic.cpp	/^void outflow(tuple<int, int, int> *r, int N) {$/;"	f
+outr	traffic.cpp	/^void outr(int lr, int ur, int &fl, int &fu) {$/;"	f
+outset	nestedrcount.cpp	/^ordered_set inset, outset;$/;"	v
+overLimits	build_gates.cpp	/^bool overLimits = false;$/;"	v
+p	01knapsack.cpp	/^int p[1001], g[1001];$/;"	v
+p	bfs_temp.cpp	/^vi p; \/\/ meaning: parent$/;"	v
+p	birthday.cpp	/^int p, c, num;$/;"	v
+p	gates.cpp	/^char p[1000];$/;"	v
+p	hash_ll.cpp	/^	int p, n, v; \/\/ refrences are really just indecies for the list$/;"	m	struct:lli	file:
+p	min_spanning_tree_temp.cpp	/^vi r, p;$/;"	v
+p	msg_route.cpp	/^vi p; \/\/ meaning: parent$/;"	v
+p	parade.cpp	/^vector<int> p;$/;"	v
+p	political_parties.cpp	/^vector<int> p[200001];$/;"	v
+p	scf.cpp	/^int p[300001];$/;"	v
+p	sjge.cpp	/^int p[500][500];$/;"	v
+p	sticklens.cpp	/^int N, p[maxN];$/;"	v
+p	superbull.cpp	/^vi r, p;$/;"	v
+p	warshall_temp.cpp	/^int p[500][500]; \/\/ meaning: parent matrix$/;"	v
+p	wh.cpp	/^int p;$/;"	v
+p2c	milkorder.cpp	/^int p2c[101]; \/\/ position -> cow$/;"	v
+parent	tele_call.cpp	/^    int* parent;$/;"	m	class:DSU	file:
+path	acsl09.cpp	/^vector<int> path;$/;"	v
+path	round_trip.cpp	/^stack<ll> path;$/;"	v
+paths	quantum_superpos.cpp	/^set<int> paths[2];$/;"	v
+pb	books.cpp	/^#define pb /;"	d	file:
+pchange	pattern_matching.cpp	/^void pchange(int i, int j, char c) {$/;"	f
+pg	srg.cpp	/^set<vector<int>> pg;$/;"	v
+pii	tinoi17a.cpp	/^#define pii /;"	d	file:
+pindex	char_issues.cpp	/^long long n, k, tree[1001][2], pindex[1001];$/;"	v
+pos	collectingnums2ans.cpp	/^int N, M, cnt, x[maxN], pos[maxN];$/;"	v
+posX	build_gates.cpp	/^int posX = limit \/ 2;$/;"	v
+posY	build_gates.cpp	/^int posY = limit \/ 2;$/;"	v
+power	bitstr.cpp	/^long long power(long long y) {$/;"	f
+prchar	palreorder.cpp	/^void prchar(char c, int n) {$/;"	f
+prefix	path_prefixes.cpp	/^vector<int> prefix;$/;"	v
+primeFactors	countdiv.cpp	/^void primeFactors(int n)$/;"	f
+primes	orac_lcm.cpp	/^vector<int> primes;$/;"	v
+print	segtree_neel.cpp	/^void print(int node=1, int l=0, int r=s-1) {$/;"	f
+print	segtreetemp.cpp	/^void print(int node=1, int l=0, int r=s-1) {$/;"	f
+printPath	bfs_temp.cpp	/^void printPath(int u) {$/;"	f
+printPath	msg_route.cpp	/^void printPath(int u) {$/;"	f
+printPath	warshall_temp.cpp	/^void printPath(int i, int j) { \/\/ prints shortest path in correct order$/;"	f
+print_map	sri.cpp	/^void print_map(std::string comment, const std::map<pair<int64_t, int64_t>, int>& m)$/;"	f
+process	lightson.cpp	/^void process(int i, int j) {$/;"	f
+process_interval	closest-cow-wins.cpp	/^void process_interval(int s, int e) {$/;"	f
+ps	cut-ribbon.cpp	/^set<int> ps;$/;"	v
+ps	milk_sum.cpp	/^vector<long long> ps; \/\/ for the -\/+ in final operation$/;"	v
+ps	rect_pasture.cpp	/^int ps[2505][2505];$/;"	v
+ps	remgametrial.cpp	/^vector<long long> g, ps;$/;"	v
+ps	reversal_game.cpp	/^int ps[26];$/;"	v
+ps2	rect_pasture.cpp	/^int ps2(int a, int b, int c, int d) {$/;"	f
+push	cow_marriage.cpp	/^void push(int l, int r, int p) {$/;"	f
+q	apple_tree.cpp	/^long long n, q;$/;"	v
+q	companyqs.cpp	/^int n, q;$/;"	v
+q	josephus.cpp	/^int q;$/;"	v
+q	reversal_game.cpp	/^int q;$/;"	v
+qs	companyqs.cpp	/^int qs[200005][18];$/;"	v
+qs	uso222.cpp	/^vector<set<char>> qs;$/;"	v
+query	cow_marriage.cpp	/^ll query(int l, int r, int node=1, int cl=0, int cr=s-1) {$/;"	f
+query	segtree_neel.cpp	/^int query(int l, int r, int node=1, int cl=0, int cr=s-1) {$/;"	f
+query	segtreetemp.cpp	/^int query(int l, int r, int node=1, int cl=0, int cr=s-1) {$/;"	f
+r	count_digi_sum.cpp	/^int l, r;$/;"	v
+r	cow_hopscotch.cpp	/^int grid[100][100], r, c, k, memo[100][100];$/;"	v
+r	hopscotch.cpp	/^int c, r, ans;$/;"	v
+r	leftout.cpp	/^bool r[1000];$/;"	v
+r	min_spanning_tree_temp.cpp	/^vi r, p;$/;"	v
+r	superbull.cpp	/^vi r, p;$/;"	v
+r2l	lightson.cpp	/^vector<pair<int, int>> r2l[101][101];$/;"	v
+rank	tele_call.cpp	/^    int* rank;$/;"	m	class:DSU	file:
+reVal	dualpal.cpp	/^char reVal(int num)$/;"	f
+reVal	palsquare.cpp	/^char reVal(int num)$/;"	f
+read_input	angry_sk.cpp	/^vector<int>* read_input() {$/;"	f
+read_input2	angry_sk.cpp	/^vector<int> read_input2() {$/;"	f
+read_input3	angry_sk.cpp	/^void read_input3(vector<int>& bale_pos)$/;"	f
+read_input4	angry_sk.cpp	/^void read_input4(vector<int>* bale_pos)$/;"	f
+readings1	backforth.cpp	/^    set<int> readings1;$/;"	m	struct:tanks	file:
+rec	day2c.cpp	/^int rec(int pos, int len, char let, int tot) {$/;"	f
+rec	day3b.cpp	/^bool rec(int x, int y) {$/;"	f
+rec	day3e.cpp	/^int rec(int sum, bool has_d) {$/;"	f
+recur	day3c.cpp	/^int recur(char level, int l, int r){$/;"	f
+ref	transform.cpp	/^vvi ref(vvi m, int s) {$/;"	f
+res	missingcoinsum.cpp	/^ll res;$/;"	v
+rght	labrynth.cpp	/^int n, m, sX, sY, lft, rght;$/;"	v
+rightpath	gridpaths.cpp	/^inline bool rightpath(int path, char d) {$/;"	f
+rollinghash_string	finding_patterns.cpp	/^void rollinghash_string(string n, int win_size) {$/;"	f
+root	treematchingbad.cpp	/^set<int> root, rroot;$/;"	v
+rot90	transform.cpp	/^vvi rot90(vvi m, int s) {$/;"	f
+rroot	treematchingbad.cpp	/^set<int> root, rroot;$/;"	v
+rtree	treematchingbad.cpp	/^vector<int> rtree[200001];$/;"	v
+s	bfs_temp.cpp	/^int s = 5; \/\/ starting vertex (or source)$/;"	v
+s	books.cpp	/^#define s /;"	d	file:
+s	cow_marriage.cpp	/^int s;$/;"	v
+s	day2c.cpp	/^string s;$/;"	v
+s	givenlensum.cpp	/^long long m, s;$/;"	v
+s	msg_route.cpp	/^int s = 0; \/\/ starting vertex (or source)$/;"	v
+s	segtree_neel.cpp	/^int s;$/;"	v
+s	segtreetemp.cpp	/^int s;$/;"	v
+s	theyre_everywhere.cpp	/^string s;$/;"	v
+s	uso222.cpp	/^string s, t;$/;"	v
+sX	labrynth.cpp	/^int n, m, sX, sY, lft, rght;$/;"	v
+sY	labrynth.cpp	/^int n, m, sX, sY, lft, rght;$/;"	v
+sameSet	dance_moovesS.cpp	/^	bool sameSet(int a, int b) { return get(a) == get(b); }$/;"	f	struct:DSU
+same_set	building_roads.cpp	/^	bool same_set(int a, int b) { return get(a) == get(b); }$/;"	f	struct:DSU
+same_set	dsu_temp.cpp	/^	bool same_set(int a, int b) { return get(a) == get(b); }$/;"	f	struct:DSU
+same_set	health_insp.cpp	/^	bool same_set(int a, int b) { return get(a) == get(b); }$/;"	f	struct:DSU
+same_set	vinland_saga.cpp	/^	bool same_set(int a, int b) { return get(a) == get(b); }$/;"	f	struct:DSU
+scmp	rect_pasture.cpp	/^bool scmp(pair<int, int> a,pair<int, int> b) {$/;"	f
+scomp	convention2.cpp	/^bool scomp(vector<int> i, vector<int> j) {$/;"	f
+setIO	books.cpp	/^void setIO(string name = "") {$/;"	f
+setgs	solve_maze.cpp	/^void setgs() {$/;"	f
+sh	milkorder.cpp	/^int sh[101];$/;"	v
+shrt	min_dist.cpp	/^vector<int> lng, shrt;$/;"	v
+si	angry_sk.cpp	/^typedef set<int> si;$/;"	t	file:
+sim	tracing.cpp	/^tuple<string, int, int> sim(int tl[251][2], int rc, string end) {$/;"	f
+sim1	tracing.cpp	/^pair<int, int> sim1(int tl[251][2], int rc, string end) {$/;"	f
+size	building_roads.cpp	/^	int size(int x) { return -e[get(x)]; }$/;"	f	struct:DSU
+size	dance_moovesS.cpp	/^	int size(int x) { return -e[get(x)]; }$/;"	f	struct:DSU
+size	dsu_temp.cpp	/^	int size(int x) { return -e[get(x)]; }$/;"	f	struct:DSU
+size	health_insp.cpp	/^	int size(int x) { return -e[get(x)]; }$/;"	f	struct:DSU
+size	vinland_saga.cpp	/^	int size(int x) { return -e[get(x)]; }$/;"	f	struct:DSU
+sl	roomallo.cpp	/^vector<tuple<int, bool, int>> sl; \/\/ 0=s, 1=e$/;"	v
+sm	sss.cpp	/^long long sm[10][2];$/;"	v
+solve	1472g.cpp	/^void solve() {$/;"	f
+solve	amongus2.cpp	/^void solve() {$/;"	f
+solve	ccs.cpp	/^void solve(set<pair<int,int>>& addcows, set<pair<int, int>>& lastcow, pair<int, int> curcow) {$/;"	f
+solve	chessbandq.cpp	/^void solve(int l) {$/;"	f
+solve	close_tuples.cpp	/^void solve() {$/;"	f
+solve	connecting2barns.cpp	/^int solve() {$/;"	f
+solve	cow_hopscotch.cpp	/^int solve(int x, int y) {$/;"	f
+solve	email_filing.cpp	/^void solve() {$/;"	f
+solve	gl_tester.cpp	/^string solve(int ain, string sn) {$/;"	f
+solve	gridpaths.cpp	/^void solve(int x, int y, const int path) {$/;"	f
+solve	inoi2002.cpp	/^void solve() {$/;"	f
+solve	josephus.cpp	/^int solve(int n, int k) {$/;"	f
+solve	meeting_socho.cpp	/^void solve() {$/;"	f
+solve	pails_silver.cpp	/^void solve(int pail1, int pail2, int steps) { if (memo[pail1][pail2][steps]) return; memo[pail1][pail2][steps] = true;$/;"	f
+solve	pairs_of_segs.cpp	/^void solve() {$/;"	f
+solve	pandamonium.cpp	/^void solve() {$/;"	f
+solve	party_wo_boss.cpp	/^int solve(int n, bool in) {$/;"	f
+solve	race.cpp	/^int solve(int d, int ends) {$/;"	f
+solve	ranom_nums.cpp	/^void solve() {$/;"	f
+solve	remgametrial.cpp	/^long long solve(int l, int r) {$/;"	f
+solve	roadtrip.cpp	/^void solve() {$/;"	f
+solve	running_mi.cpp	/^void solve() {$/;"	f
+solve	sctb.cpp	/^int solve(int N, int M, map<int, vector<int>> p) {$/;"	f
+solve	sjge.cpp	/^ll solve() {$/;"	f
+solve	treed.cpp	/^int solve(int r, int prev) {$/;"	f
+solve	treedist1.cpp	/^void solve(int r) {$/;"	f
+solve	treematching.cpp	/^pair<int, int> solve(int r, int prev) {$/;"	f
+solve	treematchingbad.cpp	/^int solve(int n, vector<int> *tr) {$/;"	f
+solve	twopaths.cpp	/^void solve() {$/;"	f
+solve	wh.cpp	/^void solve(int x, int y, int prev, int kt) {$/;"	f
+solveSubsetSum	souvenir_prices.cpp	/^ll solveSubsetSum(ll a[], ll n, ll S)$/;"	f
+sortby1st	balancing.cpp	/^bool sortby1st(const pair<int,int> &a, const pair<int,int> &b) {$/;"	f
+split_in2_sentences	txter.cpp	/^vector<string> split_in2_sentences(string txt) {$/;"	f
+st	factorymachines.cpp	/^int st[stn];$/;"	v
+st	nestedrcount.cpp	/^int in[maxN], con[maxN], st[2*stN+1];$/;"	v
+st	pair_p.cpp	/^int st(vector<int> v) {$/;"	f
+st	segtree.cpp	/^int st[stn];$/;"	v
+st	segtree_neel.cpp	/^int* st;$/;"	v
+st	segtreetemp.cpp	/^int* st;$/;"	v
+st	segtreevid.cpp	/^int st[2*stn];$/;"	v
+st1	scf.cpp	/^stack<int> st1;$/;"	v
+stN	nestedrcount.cpp	/^const int stN = 1 << 18;$/;"	v
+stacks	dishwashing.cpp	/^stack<int> stacks[MAXN];$/;"	v
+start	nother_tree.cpp	/^void start() {$/;"	f
+stn	factorymachines.cpp	/^const int stn = 1 << 3; \/\/ size of st, power of 2$/;"	v
+stn	segtree.cpp	/^const int stn = 1 << 3; \/\/ size of st, power of 2$/;"	v
+stn	segtreevid.cpp	/^const int stn = 1 << 2; \/\/ size of st, power of 2$/;"	v
+str	day3c.cpp	/^string str;$/;"	v
+sub	choose_temp.cpp	/^int sub(int x, int y) {$/;"	f
+sub	placing_rooks.cpp	/^int sub(int x, int y)$/;"	f
+sub	potw1p2.cpp	/^int sub(int x, int y) {$/;"	f
+sum	factorymachines.cpp	/^int sum(int a, int b) {$/;"	f
+sum	nestedrcount.cpp	/^int sum(int a, int b) {$/;"	f
+sum	segtree.cpp	/^int sum(int a, int b) {$/;"	f
+sum	segtreevid.cpp	/^int sum(int a, int b) {$/;"	f
+sum	sticklens.cpp	/^ll median, sum;$/;"	v
+swap	carriage_arr.cpp	/^void swap(int* xp, int* yp) {$/;"	f
+swap	swap.cpp	/^void swap(pair<int, int> step, int *cows) {$/;"	f
+swap	wormsort.cpp	/^void swap(vector<int>& v, int i, int j) {$/;"	f
+swaps	wormhole-sort.cpp	/^map<int, int> swaps;$/;"	v
+sz	books.cpp	/^#define sz(/;"	d	file:
+t	add_one.cpp	/^int t, m;$/;"	v
+t	connecting2barns.cpp	/^int t, n, m;$/;"	v
+t	counting_towers.cpp	/^int t;$/;"	v
+t	factorymachines.cpp	/^ll n, t;$/;"	v
+t	gen_paths.cpp	/^vector<int> t[501];$/;"	v
+t	nother_tree.cpp	/^vector<int> t[501];$/;"	v
+t	plt.cpp	/^int t;$/;"	v
+t	uso222.cpp	/^string s, t;$/;"	v
+t1	backforth.cpp	/^    map<int, int>& t1;$/;"	m	struct:tanks	file:
+t2	backforth.cpp	/^    map<int, int>& t2;$/;"	m	struct:tanks	file:
+t2c	barn_tree.cpp	/^int t2c[200001];$/;"	v
+tanks	backforth.cpp	/^    tanks(map<int, int>& tmp1, map<int, int>& tmp2): t1(tmp1), t2(tmp2) {}$/;"	f	struct:tanks
+tanks	backforth.cpp	/^struct tanks {$/;"	s	file:
+target	2sets2.cpp	/^int n, target;$/;"	v
+tasks	tasksmachines.cpp	/^pair<ll, ll> tasks[200000];$/;"	v
+tc	wordcombo.cpp	/^int tc = 1;$/;"	v
+test	uso222.cpp	/^bool test(set<int> si) {$/;"	f
+tickets	concerttickets.cpp	/^int n,m; multiset<int> tickets;$/;"	v
+time_milk	msched.cpp	/^vector<pair<int, int>> time_milk;$/;"	v
+tnode	wordcombo-struct.cpp	/^    tnode(bool iw) {$/;"	f	struct:tnode
+tnode	wordcombo-struct.cpp	/^struct tnode {$/;"	s	file:
+to_string	abc.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	abc.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	abc.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	abc.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	abc.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	abc.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	angry.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	angry.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	angry.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	angry.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	angry.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	angry.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	angry_sk.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	angry_sk.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	angry_sk.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	art.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	art.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	art.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	art.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	art.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	art.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	backforth.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	backforth.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	backforth.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	backforth.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	backforth.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	backforth.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	badmilk.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	badmilk.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	badmilk.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	badmilk.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	badmilk.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	badmilk.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	balancing.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	balancing.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	balancing.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	balancing.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	balancing.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	balancing.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	bcs.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	bcs.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	bcs.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	bcs.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	bcs.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	bcs.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	blist.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	blist.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	blist.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	blocks.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	blocks.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	blocks.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	blocks.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	blocks.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	blocks.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	breedflip.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	breedflip.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	breedflip.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	breedflip.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	breedflip.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	breedflip.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	cbarn.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	cbarn.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	cbarn.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	cbarn.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	cbarn.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	cbarn.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	cc.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	cc.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	cc.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	cc.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	cc.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	cc.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	cf.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	cf.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	cf.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	cf.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	cf.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	cf.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	cownomics.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	cownomics.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	cownomics.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	cowphabet.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	cowphabet.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	cowphabet.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	cowphabet.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	cowphabet.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	cowphabet.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	cowsignal.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	cowsignal.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	cowsignal.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	cowsignal.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	cowsignal.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	cowsignal.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	cowtip.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	cowtip.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	cowtip.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	cowtip.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	cowtip.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	cowtip.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	daisychains.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	daisychains.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	daisychains.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	daisychains.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	daisychains.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	daisychains.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	eh.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	eh.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	eh.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	eh.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	eh.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	eh.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	emop.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	emop.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	emop.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	emop.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	emop.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	emop.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	guess.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	guess.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	guess.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	guess.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	guess.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	gymnastics.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	gymnastics.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	gymnastics.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	herding.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	herding.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	herding.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	hoofball.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	hoofball.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	hoofball.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	hoofball.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	hoofball.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	hoofball.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	hps.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	hps.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	hps.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	hps.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	hps.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	hps.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	js.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	js.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	js.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	js.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	js.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	js.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	lp2.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	lp2.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	lp2.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	lp2.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	lp2.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	lp2.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	milkorder.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	milkorder.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	milkorder.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	milkorder.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	milkorder.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	milkorder.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	milkvisits.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	milkvisits.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	milkvisits.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	milkvisits.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	milkvisits.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	milkvisits.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	mowing.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	mowing.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	mowing.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	mowing.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	mowing.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	mowing.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	notlast.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	notlast.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	notlast.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	notlast.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	notlast.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	notlast.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	outofplace.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	outofplace.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	outofplace.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	outofplace.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	pails.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	pails.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	pails.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	pails.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	pails.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	pails.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	paint.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	paint.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	paint.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	paint.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	paint.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	paint.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	promote.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	promote.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	promote.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	promote.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	promote.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	promote.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	scs.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	scs.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	scs.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	scs.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	scs.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	scs.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	speeding.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	speeding.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	speeding.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	speeding.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	speeding.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	speeding.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	square.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	square.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	square.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	square.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	square.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	square.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	swap.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	swap.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	swap.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	swap.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	swap.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	swap.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	tracing.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	tracing.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	tracing.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	tracing1.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	tracing1.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	tracing1.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	traffic.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	traffic.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	traffic.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	traffic.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	traffic.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	traffic.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	triangles.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	triangles.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	triangles.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	triangles.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	triangles.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	triangles.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	tttt.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	tttt.cpp	/^string to_string(const set<T>& s)$/;"	f
+to_string	tttt.cpp	/^string to_string(const set<T>* s)$/;"	f
+to_string	tttt.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	tttt.cpp	/^string to_string(const vector<T>* v)$/;"	f
+to_string	yc.cpp	/^string to_string(T *a, int size) {$/;"	f
+to_string	yc.cpp	/^string to_string(T begin, T end)$/;"	f
+to_string	yc.cpp	/^string to_string(const set<T>& v)$/;"	f
+to_string	yc.cpp	/^string to_string(const set<T>* v)$/;"	f
+to_string	yc.cpp	/^string to_string(const vector<T>& v)$/;"	f
+to_string	yc.cpp	/^string to_string(const vector<T>* v)$/;"	f
+top	sliding_cost.cpp	/^multiset<long> top;$/;"	v
+top	sliding_median.cpp	/^multiset<long> top;$/;"	v
+topo_sort	barn_tree.cpp	/^void topo_sort(int i) {$/;"	f
+totv	perimeter.cpp	/^int totv[1001][1001];$/;"	v
+tr	companyqs.cpp	/^int tr[200005];$/;"	v
+traversal	subordinates.cpp	/^int traversal(int node) {$/;"	f
+tree	char_issues.cpp	/^long long n, k, tree[1001][2], pindex[1001];$/;"	v
+tree	dist_in_tree.cpp	/^dll tree[50005];$/;"	v
+tree	mahmoud.cpp	/^map<long long, vector<long long>> tree;$/;"	v
+tree	me_bipartite.cpp	/^map<long long, vector<long long>> tree;$/;"	v
+tree	party_wo_boss.cpp	/^map<int, vector<int>> tree;$/;"	v
+tree	selecting_nodes.cpp	/^vector<pair<long long, long long>> tree[200001];$/;"	v
+tree	subordinates.cpp	/^map<int, vector<int>> tree;$/;"	v
+tree	tree_distances.cpp	/^map<int, vector<int>> tree;$/;"	v
+tree	treematching.cpp	/^vector<int> tree[200001];$/;"	v
+tree_pref	forest_queries.cpp	/^int tree_pref[MAX_SIDE + 1][MAX_SIDE + 1];$/;"	v
+trie	wordcombo.cpp	/^int trie[1000001][26];$/;"	v
+types	theyre_everywhere.cpp	/^set<char> types;$/;"	v
+unite	building_roads.cpp	/^	bool unite(int x, int y) {  \/\/ union by size$/;"	f	struct:DSU
+unite	dance_moovesS.cpp	/^	bool unite(int x, int y) {  \/\/ union by size$/;"	f	struct:DSU
+unite	dsu_temp.cpp	/^	bool unite(int x, int y) {  \/\/ union by size$/;"	f	struct:DSU
+unite	health_insp.cpp	/^	bool unite(int x, int y) {  \/\/ union by size$/;"	f	struct:DSU
+unite	tele_call.cpp	/^    void unite(int x, int y)$/;"	f	class:DSU
+unite	vinland_saga.cpp	/^	bool unite(int x, int y) {  \/\/ union by size$/;"	f	struct:DSU
+upd1	cow_marriage.cpp	/^void upd1(int p, ll val, int node=1, int l=0, int r=s-1) {$/;"	f
+upd1	segtree_neel.cpp	/^void upd1(int p, int val, int node=1, int l=0, int r=s-1) {$/;"	f
+upd1	segtreetemp.cpp	/^void upd1(int p, int val, int node=1, int l=0, int r=s-1) {$/;"	f
+upd_range	segtree_neel.cpp	/^void upd_range(int l, int r, int u, int node=1, int cl=0, int cr=s-1) {$/;"	f
+upd_range	segtreetemp.cpp	/^void upd_range(int l, int r, int u, int node=1, int cl=0, int cr=s-1) {$/;"	f
+update	collectingnums2ans.cpp	/^void update(int a, int b){$/;"	f
+update	pattern_matching.cpp	/^void update(int i, int j, int val) {$/;"	f
+updr	cow_marriage.cpp	/^void updr(int i, int j, ll x, int p = 1, int l = 0, int r = s-1) {$/;"	f
+v	gates.cpp	/^bool v[2001][2001];$/;"	v
+v	hash_ll.cpp	/^	int p, n, v; \/\/ refrences are really just indecies for the list$/;"	m	struct:lli	file:
+v	scf.cpp	/^int v[300001];$/;"	v
+v	tinoi17a.cpp	/^map<pii, bool> v;$/;"	v
+val	Anew.cpp	/^int val[100001], n, ans;$/;"	v
+val	barn_tree.cpp	/^int val[200001], n, ans;$/;"	v
+val	calvins_game.cpp	/^int n, k, memo[2000000], val[2000000], memorev[2000000];$/;"	v
+val	sjge.cpp	/^bool val[500][500];$/;"	v
+valid	angrys.cpp	/^bool valid(int mid, int C, vector<int>& at) {$/;"	f
+valid	convention.cpp	/^bool valid(int mid, int M, int C, vector<int>& at) {$/;"	f
+validcrypt	crypt1.cpp	/^bool validcrypt(int x, int ts) {$/;"	f
+vals	closest-cow-wins.cpp	/^vector<ll> vals;$/;"	v
+vals	sumof3.cpp	/^vector<int> vals;$/;"	v
+vals	sumof4.cpp	/^vector<int> vals;$/;"	v
+valset	sumof3.cpp	/^map<int, int> valset;$/;"	v
+valset	sumof4.cpp	/^map<int, int> valset;$/;"	v
+verif	gl_tester.cpp	/^string verif(int ain, string sn) {$/;"	f
+vi	2long.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	Anew.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	B.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	C.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	barn_tree.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	bfs_temp.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	building_roads.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	ccski.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	counting_rooms.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	dance_moovesS.cpp	/^#define vi /;"	d	file:
+vi	defaulttemp.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	dijktra_temp.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	fileiotemp.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	flood_fill_temp.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	following_directions.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	game_routes.cpp	/^typedef vector<ll> vi;$/;"	t	file:
+vi	help_yourself.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	high_card_gold.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	labby.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	lazy.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	loan_replacement.cpp	/^typedef vector<ll> vi;$/;"	t	file:
+vi	min_spanning_tree_temp.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	monsters.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	msg_route.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	range_recontruction.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	round_trip.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	segtree.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	superbull.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	topo_sort.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vi	watermellon.cpp	/^typedef vector<int> vi;$/;"	t	file:
+vii	dijktra_temp.cpp	/^typedef vector<ii> vii;$/;"	t	file:
+vii	meeting.cpp	/^typedef vector<ii> vii;$/;"	t	file:
+vii	min_spanning_tree_temp.cpp	/^typedef vector<ii> vii;$/;"	t	file:
+vii	superbull.cpp	/^typedef vector<ii> vii;$/;"	t	file:
+vis	acsl09.cpp	/^bool vis[21];$/;"	v
+vis	birthday.cpp	/^bool vis[5000];$/;"	v
+vis	building_teams.cpp	/^bool vis[SIZE];$/;"	v
+vis	catch_me.cpp	/^bool vis[100001][2];$/;"	v
+vis	ccski.cpp	/^bool vis[501][501];$/;"	v
+vis	connect.cpp	/^int vis[50][50];$/;"	v
+vis	cosmic_reactions.cpp	/^set<int> vis;$/;"	v
+vis	counting_rooms.cpp	/^bool vis[1001][1001];$/;"	v
+vis	fight_traffic.cpp	/^bool vis[1010];$/;"	v
+vis	flood_fill_temp.cpp	/^set<pair<int, int>> vis;$/;"	v
+vis	graph_no_paths.cpp	/^int vis[500001];$/;"	v
+vis	kefa_park.cpp	/^long long vis[200010];$/;"	v
+vis	labby.cpp	/^bool vis[1001][1001];$/;"	v
+vis	labrynth.cpp	/^bool vis[2010][2010];$/;"	v
+vis	mahmoud.cpp	/^bool vis[MAXN];$/;"	v
+vis	me_bipartite.cpp	/^bool vis[MAXN];$/;"	v
+visited	barn_tree.cpp	/^bool visited[200001];$/;"	v
+visited	char_issues.cpp	/^bool visited[1001][1001];$/;"	v
+visitedB	meeting.cpp	/^bool visitedB[100][10000], visitedE[100][10000];$/;"	v
+visitedE	meeting.cpp	/^bool visitedB[100][10000], visitedE[100][10000];$/;"	v
+vll	barn_tree.cpp	/^typedef vector<ll> vll;$/;"	t	file:
+vll	bessie_goes_moo.cpp	/^typedef vector<ll> vll;$/;"	t	file:
+vll	tutor.cpp	/^typedef vector<ll> vll;$/;"	t	file:
+vs	lightson.cpp	/^char vs[101][101];$/;"	v
+w	cow.cpp	/^long long o, w, n;$/;"	v
+w	elevatorrides.cpp	/^vector<int> w;$/;"	v
+water	day3b.cpp	/^vector<int> water[2];$/;"	v
+waypts	ccski.cpp	/^vector<ii> waypts;$/;"	v
+wh	wormsort.cpp	/^vector<vector<int>> wh;$/;"	v
+whs	wormhole-sort.cpp	/^map<int, vector<pair<int, int>>> whs;$/;"	v
+widths	wormhole-sort.cpp	/^vector<int> cows, widths;$/;"	v
+wish	connect.cpp	/^vector<array<int, 2>> curr, wish;$/;"	v
+works	farm_triangles.cpp	/^long long works[maxn];$/;"	v
+works	graph_no_paths.cpp	/^bool works = true;$/;"	v
+works	loan_replacement.cpp	/^bool works(ll x) {$/;"	f
+works2	loan_replacement.cpp	/^bool works2(ll x) {$/;"	f
+wx	connect.cpp	/^int cx, cy, wx, wy;$/;"	v
+wy	connect.cpp	/^int cx, cy, wx, wy;$/;"	v
+x	01knapsack.cpp	/^int n, x, memo[1001][100001];$/;"	v
+x	building_teams.cpp	/^int x, y;$/;"	v
+x	catch_me.cpp	/^long long n, e, x, k;$/;"	v
+x	coin_combos2.cpp	/^int n, x;$/;"	v
+x	collectingnums2ans.cpp	/^int N, M, cnt, x[maxN], pos[maxN];$/;"	v
+x	count_digi_sum.cpp	/^int x;$/;"	v
+x	elevatorrides.cpp	/^int n, x;$/;"	v
+x	meeting_socho.cpp	/^int n, m, x;$/;"	v
+x	meetmid.cpp	/^long long n, x;$/;"	v
+x	meetmidbad.cpp	/^long long n, x;$/;"	v
+x	min_coins.cpp	/^int n, x;$/;"	v
+x	missingcoinsum.cpp	/^int N, x[maxN];$/;"	v
+x	pails_silver.cpp	/^int x, y, k, m, ans = 2000000000;$/;"	v
+x	round_trip.cpp	/^ll x, y;$/;"	v
+x	stuck_inna_rut.cpp	/^vector<pair<int, pair<int, char>>> x;$/;"	v
+x	sumof3.cpp	/^int n, x;$/;"	v
+x	sumof4.cpp	/^int n, x;$/;"	v
+xcomp	rps.cpp	/^bool xcomp(pair<int, int> i, pair<int, int> j) {$/;"	f
+xs	nestedrc.cpp	/^pair<int, int> xs[200000];$/;"	v
+xs	nestedrcount.cpp	/^pair<int, int> xs[maxN];$/;"	v
+y	building_teams.cpp	/^int x, y;$/;"	v
+y	pails_silver.cpp	/^int x, y, k, m, ans = 2000000000;$/;"	v
+y	round_trip.cpp	/^ll x, y;$/;"	v
+y	stuck_inna_rut.cpp	/^vector<pair<int, pair<int, char>>> y;$/;"	v
+ycomp	rps.cpp	/^bool ycomp(pair<int, int> i, pair<int, int> j) {$/;"	f

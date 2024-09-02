@@ -1,0 +1,53 @@
+CLOSEST-COW-WINS.CPP
+#include <bits/stdc++.h>
+
+using namespace std;
+using ld = long double;
+using ll = long long;
+
+int k, m, n;
+vector<pair<int, int>> farm;
+vector<int> sols;
+
+int main() {
+    cin >> k >> m >> n;
+    for(int i = 0 ; i < k; i++) {
+        int a, b; cin >> a >> b;
+        farm.push_back(make_pair(a, b));
+    }
+    for(int i = 0 ; i < m; i++) {
+        int a; cin >> a;
+        farm.push_back(make_pair(a, -1));
+    }
+
+    sort(farm.begin(), farm.end());
+    int i = 0;
+    while(i < farm.size()) {
+        if(farm[i].second != -1) {
+            if(farm[i].first - farm[i-1].first <= farm[i+1].first - farm[i].first) {
+                sols.push_back(farm[i].second);
+                i++;
+                continue;
+            }
+            int j = i, tot = 0, limit = farm[i].first - farm[i-1].first;
+            while(farm[j].second != -1 && i < farm.size() && farm[j].first-farm[oi].first < limit) {
+                tot += farm[j].second;
+                j++;
+            }
+            if(j >= farm.size() || farm[j].first-farm[i].first < limit) {
+                sols.push_back(tot);
+            } else {
+                int ol = j;
+                while(farm[j].first-farm[i].first >= farm[ol].first-farm[j].first) {
+                    j--;
+                    tot -= farm[j].second;
+                }
+                sols.push_back(tot);
+            }
+        }
+        i++;
+    }
+
+
+    return 0;
+}

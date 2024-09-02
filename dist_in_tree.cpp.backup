@@ -1,0 +1,48 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+// typedef deque<long long> dll;
+typedef vector<ll> dll;
+
+int n, k;
+map<int, vector<int>> tree;
+
+pair<ll, dll> dp(int n, int p) {
+	if(tree[n].size() <= 1 && p != -1) {
+		pair<ll, dll> res = {0, {1}};
+		return res;
+	}
+	//printf("DP(%d, %d)\n", n, p);
+	pair<ll, dll> res = {0, {}};
+	for(int c : tree[n]) {
+		if(c == p) continue;
+		pair<ll, dll> cres = dp(c, n);
+		res.first += cres.first;
+		for(int i = 0; i < min(k-1, (int)cres.second.size()); i++) {
+			int index = k-i-2; // what index to multiply
+			if((int)res.second.size() > index) res.first += cres.second[i]*res.second[index];
+		}
+		// combine
+		for(int i = 0; i < (int)cres.second.size(); i++) {
+			if((int)res.second.size() > i) res.second[i] += cres.second[i];
+			else res.second.push_back(cres.second[i]);
+		}
+	}
+	res.second.insert(res.second.begin(), 1, 1);
+	//assert(k < res.second.size());
+	if(k < (int)res.second.size()) res.first += res.second[k];
+	return res;
+}
+
+signed main() {
+	cin >> n >> k;
+	for(int i = 0; i < n-1; i++) {
+		int x, y; cin >> x >> y;
+		tree[x].push_back(y);
+		tree[y].push_back(x);
+	}
+	pair<ll, dll> ans = dp(1, -1);
+	cout << ans.first << endl;
+
+	return 0;
+}

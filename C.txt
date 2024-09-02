@@ -1,0 +1,46 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+typedef long long ll;
+typedef vector<int> vi;
+typedef pair<int, int> ii;
+using ld = long double;
+using ll = long long;
+
+int N;
+vi a;
+string s = "";
+
+void f(int p) {
+    int i = p;
+    while(i < N && a[i] != 0) {
+        a[i]--;
+        s += 'R';
+        i++;
+    }
+    i--;
+    while(i >= 0 && a[i] != 1) {
+        a[i]--;
+        s += 'L';
+        i--;
+    }
+    i++;
+    if(a[i] == 0) {
+        for(int j = p; j <= i; j++)
+            s += 'L';
+        return;
+    }
+}
+
+int main() {
+    cin >> N;
+    for(int i = 0; i < N; i++) {
+        int x; cin >> x;
+        a.push_back(x);
+    }
+    a.push_back(0);
+    f(0);
+    cout << s << endl;
+
+    return 0;
+}
