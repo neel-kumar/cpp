@@ -4,41 +4,40 @@ using namespace std;
 
 signed main() {
 	int n; cin>>n;
-	set<pair<int,int>> cows; // t+x, n
-	vector<array<int,3>> apples; // t, x, n
-	int a,b,c,d;
+	vector<array<int, 3>> appls; // t-x, t+x, n
+	vector<array<int, 3>> cows; // t-x, t+x, n
+	int q,t,x,ni;
 	for(int i=0; i<n; i++) {
-		cin>>a>>b>>c>>d;
-		if(a == 1) cows.insert({b+c,d});
-		else apples.push_back({b,c,d});
+		cin>>q>>t>>x>>ni;
+		if(q == 1) cows.push_back({t-x, t+x, ni});
+		else appls.push_back({t-x, t+x, ni});
 	}
+	sort(appls.begin(), appls.end());
+	sort(cows.begin(), cows.end());
 
-	int cau=0;
-	for(array<int,3> appl : apples) {
-		int a = appl[0]-appl[1], b = appl[0]-appl[1], c = appl[2];
-		while(c > 0) {
-			cout << a << ' ' << b << ' ' << c << endl;
-			auto it = cows.lower_bound({a, INT_MAX});
-			if(it == cows.end()) auto it = cows.upper_bound({b, INT_MAX});
-			if(it == cows.end()) break;
+	multiset<array<int, 2>> s; // t+x, ni
+	int ans = 0, i = 0;
+	for(array<int, 3> a : appls) {
+		while(i < cows.size() && cows[i][0] <= a[0]) {
+			s.insert({cows[i][1], cows[i][2]});
+			i++;
+		}
 
-			cout << a << ' ' << b << ' ' << c << endl;
-			cout << (*it).first << ' ' << (*it).second << endl;
-
-			pair<int,int> cow = *it;
-			int x = min(c, cow.second);
-			cau += x;
-			c -= x;
-			cow.second -= x;
-			if(cow.second != 0) {
-				cows.erase(it);
-				cows.insert(cow);
-				break;
+		auto it = s.upper_bound({a[1], INT_MAX});
+		while(a[2] > 0 && !s.empty() && it != s.begin()) {
+			array<int,2> a2 = *(--it);
+			s.erase(it);
+			if(a2[1] > a[2]) {
+				a2[1] -= a[2];
+				ans += a[2];
+				a[2] = 0;
+				s.insert(a2);
 			} else {
-				cows.erase(it);
+				ans += a2[1];
+				a[2] -= a2[1];
 			}
+			it = s.upper_bound({a[1], INT_MAX});
 		}
 	}
-
-	cout << cau << endl;
+	cout << ans << endl;
 }
